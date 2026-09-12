@@ -1,0 +1,65 @@
+{
+  "hero": {
+    "count": 8,
+    "bookIds": [
+      "naim-frasheri--bageti-e-bujqesija",
+      "gjergj-fishta--lahuta-e-malcis",
+      "gjon-buzuku--meshtari",
+      "migjeni--vargjet-e-lira",
+      "fan-noli--jul-qesari",
+      "pashko-vasa--o-moj-shqypni",
+      "asdreni--rreze-dielli",
+      "shtjefen-gecovi--kanuni-i-leke-dukagjinit"
+    ]
+  },
+  "selectedBooks": {
+    "count": 20,
+    "bookIds": [
+      "naim-frasheri--bageti-e-bujqesija",
+      "gjergj-fishta--lahuta-e-malcis",
+      "gjon-buzuku--meshtari",
+      "migjeni--vargjet-e-lira",
+      "fan-noli--jul-qesari",
+      "pashko-vasa--o-moj-shqypni",
+      "asdreni--rreze-dielli",
+      "shtjefen-gecovi--kanuni-i-leke-dukagjinit",
+      "sami-frasheri--shqiperia-cka-qene",
+      "nezim-frakulla--divani-shqip",
+      "pjeter-bogdani--ceta-e-profeteve",
+      "faik-konica--ese",
+      "jeronim-de-rada--kenget-e-milosaos",
+      "naim-frasheri--lulet-e-veres",
+      "andon-zako-cajupi--baba-tomorri",
+      "haki-stermilli--sikur-tisha-djale",
+      "marin-barleti--historia-e-skenderbeut",
+      "mihal-grameno--kryengritja-shqiptare",
+      "naum-veqilharxhi--evetari",
+      "foqion-postoli--lulja-e-kujtimit"
+    ]
+  },
+  "authors": {
+    "count": 20,
+    "authorIds": [
+      "naim-frasheri",
+      "gjergj-fishta",
+      "migjeni",
+      "gjon-buzuku",
+      "fan-noli",
+      "asdreni",
+      "pashko-vasa",
+      "faik-konica",
+      "sami-frasheri",
+      "jeronim-de-rada",
+      "pjeter-bogdani",
+      "andon-zako-cajupi",
+      "nezim-frakulla",
+      "konstandin-kristoforidhi",
+      "lasgush-poradeci",
+      "pjeter-budi",
+      "naum-veqilharxhi",
+      "mihal-grameno",
+      "luigj-gurakuqi",
+      "ismail-qemali"
+    ]
+  }
+}

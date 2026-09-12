@@ -1,0 +1,17 @@
+{
+  "id": "arka",
+  "name": "Arka",
+  "description": "Vepra të letërsisë shqipe në domain publik — autorë që kanë vdekur para vitit 1956.",
+  "accent": "#8b1a1a",
+  "brandColor": "#8b1a1a",
+  "maintainer": "LexoShqip",
+  "website": "https://lexoshqip.org",
+  "policy": "Të gjitha veprat në këtë koleksion janë në domain publik sipas ligjit shqiptar dhe kosovar (70 vjet pas vdekjes së autorit). Mund të lexohen, shkarkohen dhe ripërdoren lirisht pa kufizime.",
+  "contact": {
+    "email": "info@lexoshqip.org"
+  },
+  "links": [
+    { "label": "Rregullat e domain publik (Shqipëri)", "url": "https://www.qbz.gov.al/eli/ligj/2016/05/19/36" },
+    { "label": "Rregullat e domain publik (Kosovë)", "url": "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2571" }
+  ]
+}

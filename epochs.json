@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e-vjeter",
+    "title": "Letërsia e Vjetër",
+    "years": "1462–1720",
+    "description": "Fillimet e shkrimit shqip: nga «Formula e pagëzimit» e Pal Engjëllit (1462) dhe «Meshari» i Buzukut (1555); letra zhvillohet kryesisht në rrafshin fetar katolik me Pjetër Budin, Frang Bardhinë dhe Pjetër Bogdanin."
+  },
+  {
+    "id": "shekulli-xviii",
+    "title": "Shekulli XVIII — Bejtexhinjtë dhe Arbëreshët",
+    "years": "1700–1830",
+    "description": "Dy tradita paralele të shekullit XVIII: bejtexhinjtë — poetë shqiptarë muslimanë që shkruanin me alfabet arab me frymë orientale (Nezim Frakulla, Hasan Zyko Kamberi, Sulejman Naibi, Muhamet Kyçyku) — dhe tradita arbëreshe e komuniteteve shqiptare të Italisë (Jul Variboba, Michele Marchianò). Lirika e dashurisë, poezia didaktike dhe poemat religjioze formojnë urën mes letërsisë së vjetër dhe Rilindjes."
+  },
+  {
+    "id": "rilindja",
+    "title": "Rilindja Kombëtare",
+    "years": "1830–1912",
+    "description": "Lëvizja e Rilindjes Kombëtare: letërsia merr rol kyç në formimin e vetëdijes kombëtare — De Rada, Naim e Sami Frashëri, Pashko Vasa, Mjeda e Fishta krijuan vepra me frymë patriotike dhe edukative."
+  },
+  {
+    "id": "pavaresia",
+    "title": "Pavarsia",
+    "years": "1912–1944",
+    "description": "Pas Shpalljes së Pavarësisë (1912) tema pasurohet: Noli e Konica janë figura kyçe, ndërsa Koliqi, Kuteli dhe Migjeni sjellin frymën e re realiste e sociale të viteve 1920–1930."
+  },
+  {
+    "id": "socialiste",
+    "title": "Era Socialiste",
+    "years": "1945–1990",
+    "description": "Letërsia nën regjimin komunist: realizmi socialist i imponuar dhe censura shtetërore, me Kadarenë, Agollin, Xoxan, Spassen e Shuteriqin ndër zërat kryesorë — shpesh të kufizuar nga ideologjia."
+  },
+  {
+    "id": "bashkekohore",
+    "title": "Letërsia Bashkëkohore",
+    "years": "1991–sot",
+    "description": "Pas rënies së regjimit letra shqipe u çlirua nga censura: temat e tranzicionit, traumës së diktaturës dhe identitetit shqiptar në botën moderne — Kongoli, Shehu, Lleshanaku e letërsia e diasporës."
+  }
+]

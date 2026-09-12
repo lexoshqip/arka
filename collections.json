@@ -1,0 +1,17 @@
+[
+  {
+    "id": "albaniana",
+    "title": "Albaniana",
+    "description": "Shkrimtarë dhe udhëtarë të huaj për Shqipërinë dhe shqiptarët — dëshmi të jashtme për kulturën tonë."
+  },
+  {
+    "id": "klasike-perkthyer",
+    "title": "Klasikët e Përkthyer",
+    "description": "Kryevepra universale të përkthyera në gjuhën shqipe — nga Homeri e Shekspiri te më të rejat."
+  },
+  {
+    "id": "femije",
+    "title": "Bota e Fëmijëve",
+    "description": "Libra për lexuesit më të vegjël — përralla, aventura dhe klasikë të përkthyer."
+  }
+]
