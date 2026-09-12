@@ -1,0 +1,31 @@
+name: Sync to Internet Archive
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Rclone
+        uses: AnimMouse/setup-rclone@v1
+        with:
+          rclone_config: |
+            [ia]
+            type = internetarchive
+            access_key_id = ${{ secrets.IA_ACCESS_KEY }}
+            secret_access_key = ${{ secrets.IA_SECRET_KEY }}
+            disable_base64: true
+
+      - name: Sync Library Content to Internet Archive
+        run: |
+          # Sync books folder (epubs, etc.)
+          rclone sync ./books ia:lexo-shqip-archive/books --progress
+          
+          # Sync metadata catalogs (JSON/YAML) and assets (covers/images)
+          rclone sync ./metadata ia:lexo-shqip-archive/metadata --progress
+          rclone sync ./assets ia:lexo-shqip-archive/assets --progress
