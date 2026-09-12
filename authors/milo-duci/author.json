@@ -1,0 +1,14 @@
+{
+  "name": "Milo Duçi",
+  "dates": "1870–1933",
+  "born": 1870,
+  "died": 1933,
+  "bornPlace": "Korçë",
+  "diedPlace": "Egjipt",
+  "epochId": "pavaresia",
+  "epochIds": ["rilindja"],
+  "kind": "albanian",
+  "isFeatured": false,
+  "bio": "Dramaturg dhe poet shqiptar nga Korça, i emigruar në Egjipt ku u lidh me koloninë shqiptare të Aleksandrisë. Shkroi komedi dhe drama me frymë satirike sociale, duke pasqyruar jetën dhe zakonet e shoqërisë shqiptare të kohës. Vepra e tij dramatike mbetet ndër kontributet e hershme të komedisë shqipe.",
+  "wikipedia": "https://sq.wikipedia.org/wiki/Milo_Du%C3%A7i"
+}

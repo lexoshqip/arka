@@ -1,0 +1,19 @@
+{
+  "title": "Kujtimet",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Memoir", "Histori", "Politikë"],
+  "publicationYear": 1920,
+  "originalTitle": "The Memoirs of Ismail Kemal Bey",
+  "originalLanguage": "en",
+  "synopsis": "Kujtimet e Ismail Qemalit, botuar posthum në Londër në 1920 në gjuhën angleze dhe të përkthyera më pas në shqip. Dokument historik i dorës së parë mbi politikën osmane, lëvizjen kombëtare shqiptare dhe ngjarjet që çuan në Shpalljen e Pavarësisë (1912). Zëri i drejtpërdrejtë i njeriut që ngriti flamurin shqiptar në Vlorë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1919 — vepra në domain publik."
+  }
+}

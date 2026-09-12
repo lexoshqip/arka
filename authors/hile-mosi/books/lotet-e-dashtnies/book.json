@@ -1,0 +1,18 @@
+{
+  "title": "Lotët e dashtniës. Vjersha dashtnore.",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Lirikë", "Dashuri"],
+  "publicationYear": 1916,
+  "synopsis": "Vëllim lirikash dashurie i Hilë Mosit, botuar në 1916 — poezi origjinale dashurie dhe përkthime të lira nga autorë gjermanë si Goethe, Schiller, Heine, Koerner dhe Lessing. Ndër veprat e para të poezisë dashurie në letërsinë shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1933 — vepra në domain publik."
+  }
+}

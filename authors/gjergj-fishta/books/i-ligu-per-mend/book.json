@@ -1,0 +1,19 @@
+{
+  "title": "I ligu për mend",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Komedi", "Përkthim", "Teatër"],
+  "synopsis": "Përkthim i lirë i komedisë së Molierit \"Le Malade imaginaire\" nga Gjergj Fishta — hipokondriaku i famshëm i letërsisë botërore i veshur me gjuhën dhe humorin e Fishtes. Komedi klasike franceze e përshtatur për skenën shqiptare.",
+  "language": "sq",
+  "originalLanguage": "fr",
+  "originalAuthor": "Molière",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Fishta vdiq në 1940; Molieri vdiq në 1673 — vepra në domain publik."
+  }
+}

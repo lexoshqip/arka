@@ -1,0 +1,16 @@
+{
+  "title": "Canti Popolari Albanesi delle Colonie d'Italia",
+  "epochId": "shekulli-xviii",
+  "isFeatured": false,
+  "tags": ["Folklor", "Këngë Popullore", "Arbëresh", "Dorëshkrim"],
+  "synopsis": "Këngë popullore arbëreshe nga kolonitë shqiptare të Italisë, botuar nga një dorëshkrim i gjysmës së parë të shekullit XVIII — me tekst arbërisht dhe përkthim paralel italisht. Ndër burimet kryesore të trashëgimisë folklorike arbëreshe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1769 — vepra në domain publik."
+  }
+}

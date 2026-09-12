@@ -1,0 +1,18 @@
+{
+  "title": "Bënjatë të Shënjtorëvet Dërgimëtarë",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Fetare", "Liturgji", "Përkthim"],
+  "publicationYear": 1906,
+  "synopsis": "Vepër fetare e Papa Kristo Negovanit, botuar posthum në Sofje në 1906 — tekst liturgjik mbi veprat e apostujve të shenjtë, si pjesë e angazhimit të autorit për shërbimin fetar në gjuhën shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1905 — vepra në domain publik."
+  }
+}

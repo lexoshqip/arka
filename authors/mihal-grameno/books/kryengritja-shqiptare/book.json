@@ -1,0 +1,18 @@
+{
+  "title": "Kryengritja shqiptare",
+  "epochId": "pavaresia",
+  "isFeatured": true,
+  "tags": ["Kujtime", "Histori", "Patriotike"],
+  "publicationYear": 1925,
+  "synopsis": "Kujtime dhe dëshmi historike të Mihal Gramenos mbi kryengritjen shqiptare — panoramë e luftës për liri nga syri i një dëshmijtari dhe luftëtari. Vepra mbështetet në pjesëmarrjen direkte të autorit pranë Çerçiz Topullit dhe paraqet ngjarjet dhe njerëzit e lëvizjes çlirimtare shqiptare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1931 — vepra në domain publik."
+  }
+}

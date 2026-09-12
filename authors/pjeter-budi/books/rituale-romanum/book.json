@@ -1,0 +1,18 @@
+{
+  "title": "Rituale Romanum",
+  "epochId": "e-vjeter",
+  "isFeatured": false,
+  "tags": ["Fetare", "Ritual", "Liturgji"],
+  "publicationYear": 1621,
+  "synopsis": "Rituali i kishës katolike i përkthyer dhe përshtatur nga Pjetër Budi — përmban mësimet dhe lutjet e sakramenteve të krishtera në gjuhën shqipe. Është njëra nga tre veprat e mëdha të Budit të botuara në 1621 dhe plotëson figurën e tij si kleriku i parë që la gjurmë të thellë në prozën shqipe të shekullit XVII.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVII, qartazi në domain publik."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Kopësht malsori",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Patriotike", "Natyrë"],
+  "publicationYear": 1910,
+  "synopsis": "Vëllim poetik i Josif Bagerit, botuar në Sofje në 1910 — vjersha me frymë patriotike dhe lirike që sjellin imazhe nga natyra malore shqiptare dhe shpirti i lirisë kombëtare. Ndër veprat e hershme poetike të Rilindjes nga Shqipëria e Jugut.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1915 — vepra në domain publik."
+  }
+}

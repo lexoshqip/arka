@@ -1,0 +1,16 @@
+{
+  "title": "Vallja e Parrizit",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Lirikë", "Fetare"],
+  "synopsis": "Vëllim lirik i Gjergj Fishtës me poezi shpirtërore dhe lirike — shpreh tensionin e brendshëm të poetit mes dashurisë, revoltes dhe pikëllimit. Bashkë me «Mrizin e Zanave» formon dyshën e vëllimeve lirike të Fishtës.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1940 — vepra në domain publik."
+  }
+}

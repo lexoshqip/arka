@@ -1,0 +1,17 @@
+{
+  "title": "Vlera shpirtërore",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Filozofi", "Ese", "Etikë"],
+  "publicationYear": 1936,
+  "synopsis": "Ese filozofike dhe shpirtërore e Anton Harapit, botuar në Shkodër në 1936 — meditim mbi vlerat morale dhe shpirtërore në shoqërinë moderne. Harapi kombinon filozofinë perëndimore me etikën katolike dhe realitetin shqiptar, duke krijuar një nga tekstet e rralla të filozofisë morale në gjuhën shqipe të periudhës ndërlufëtare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1946 — vepra në domain publik."
+  }
+}

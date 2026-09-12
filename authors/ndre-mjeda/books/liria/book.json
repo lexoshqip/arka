@@ -1,0 +1,17 @@
+{
+  "title": "Liria",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Patriotike", "Lirikë"],
+  "publicationYear": 1917,
+  "synopsis": "Vëllimi poetik i dytë i Ndre Mjedës — poezi lirike dhe patriotike me gjuhë të punuar dhe stile të lartë. Titullin e merr nga tema e lirisë kombëtare që e përshkon gjithë veprën. Bashkë me «Juvenilja» formon bërthamën e trashëgimisë poetike të Mjedës, njërit nga poetët me gjuhën më të kulluar dhe ritmikën më të pasur të Rilindjes.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1937 — vepra në domain publik."
+  }
+}

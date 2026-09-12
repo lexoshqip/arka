@@ -1,0 +1,26 @@
+{
+  "title": "E mbësuame krishterë",
+  "epochId": "e-vjeter",
+  "isFeatured": false,
+  "tags": ["Fetare", "Katekizëm"],
+  "publicationYear": 1592,
+  "originalTitle": "Embësuame e krështerë",
+  "synopsis": "Katekizmi i parë arbëresh — përkthim nga Lekë Matrënga i katekizmit të jezuitit Juan de Ledesma, botuar në Romë në 1592. Është vepra e tretë e njohur e shkrimit shqip dhe burimi kryesor i arbërishtes siciliane të shekullit XVI.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVI, qartazi në domain publik.",
+    "sources": [
+      {
+        "name": "Albanian Orthodox — botimi i vitit 1952",
+        "url": "https://albanianorthodox.com/wp-content/uploads/E_Mbsuame_e_Kreshtere_Luk_Matrenga-1952.pdf",
+        "note": "Riprodhim i tekstit origjinal të 1592, botim i vitit 1952"
+      }
+    ]
+  }
+}

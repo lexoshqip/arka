@@ -1,0 +1,16 @@
+{
+  "title": "Rrogat e nënpunësve",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Komedi", "Dramë", "Satirë", "Shoqëri"],
+  "synopsis": "Komedi satirike e Kristo Floqit — satira e mprehtë e burokracisë dhe klasës së nënpunësve shqiptarë të periudhës ndërlufëtare. Floqi godet me humor karakteret e funksionarëve të vegjël, mentalitetin e tyre dhe marrëdhëniet me pushtetin — temë gjithmonë aktuale në letrat shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1951 — vepra në domain publik."
+  }
+}

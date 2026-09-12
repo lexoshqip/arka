@@ -1,0 +1,17 @@
+{
+  "title": "Kënkëtore",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Himne", "Fetare", "Muzikë"],
+  "publicationYear": 1893,
+  "synopsis": "Koleksion himnesh fetare protestante në gjuhën shqipe, hartuar nga Gjerasim Qiriazi dhe botuar në Korçë në 1893 — libri i parë i himneve shqipe. Vepra mundësoi adhurimin fetar në gjuhën amtare për komunitetin protestant shqiptar dhe ishte njëkohësisht kontribut i rëndësishëm për standardizimin e gjuhës shqipe të shkruar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1894 — vepra në domain publik."
+  }
+}

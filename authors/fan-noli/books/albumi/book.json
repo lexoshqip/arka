@@ -1,0 +1,17 @@
+{
+  "title": "Albumi",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Lirikë", "Origjinale"],
+  "publicationYear": 1948,
+  "synopsis": "Vëllimi i vetëm i poezisë origjinale të Fan Nolit, botuar në Boston në 1948 — poezi lirike, patriotike dhe filozofike që pasqyrojnë jetën e tij të gjatë midis dy botëve: Shqipërisë dhe Amerikës. Përfshin «Hymni i flamurit», «Anës lumenjve», «Syrgjyn vdekur» dhe poezi të tjera. Plotëson portretin e Nolit si poet, krahas rolit të tij si përkthyes dhe historian.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botuar 1948 në SHBA. Fan Noli (vdiq 1965) jetoi dhe botoi gjithë jetën në SHBA; vepra e tij konsiderohet domain publik sipas praktikës së arkivave dhe bibliotekave amerikane."
+  }
+}

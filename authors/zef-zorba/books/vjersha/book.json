@@ -1,0 +1,16 @@
+{
+  "title": "Vjersha",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Lirikë"],
+  "synopsis": "Vëllimi poetik i Zef Zorbës — lirika të zgjedhura nga poeti shkodran me gjuhë të punuar dhe ndjenjë të brendshme. Vepra e tij pasqyron stilin e heshtur dhe kontemplatif të një poeti që i jepte përparësi bukurisë së fjalës ndaj zhurmës politike të kohës.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1937 — vepra në domain publik."
+  }
+}

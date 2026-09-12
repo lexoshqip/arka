@@ -1,0 +1,17 @@
+{
+  "title": "Juvenilia",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Klasike"],
+  "publicationYear": 1917,
+  "synopsis": "Vëllimi poetik i parë i Ndre Mjedës, botuar në Shkodër. Përmban poezi patriotike, lirike dhe meditues me teknikë të lartë formale — sonete, ode dhe elegy — të ndikuara nga tradita klasike latine dhe romantizmi italian. Gjuha e Mjedës, e pastër dhe e prerë, e bën atë ndër stilistët më të kujdesshëm të poezisë shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1937 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Naim Frashëri: jeta dhe veprat",
+  "epochId": "pavaresia",
+  "epochIds": ["rilindja", "pavaresia"],
+  "isFeatured": false,
+  "tags": ["Biografi", "Kritikë Letrare", "Rilindja"],
+  "publicationYear": 1901,
+  "synopsis": "Biografia e parë shkencore e Naim Frashërit, shkruar nga Midhat Frashëri nën pseudonimin Lumo Skëndo në 1901 — studimi i parë i sistematizuar i jetës dhe veprës së poetit kombëtar. Vepra e rëndësishme si dokument historik-letrar, e shkruar nga një njohës i afërt i familjes Frashëri dhe i epokës së Rilindjes.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1949 — vepra në domain publik."
+  }
+}

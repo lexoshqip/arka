@@ -1,0 +1,17 @@
+{
+  "title": "Gjithësija",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Filozofi", "Kozmologji", "Poezi"],
+  "publicationYear": 1895,
+  "synopsis": "Poema kozmologjike dhe filozofike e Naim Frashërit, 152 faqe. Vepra më ambicioze filozofike e Naimit, ku trajton origjinën e gjithësisë, vendin e njeriut në kozmos dhe thelbin e ekzistencës nëpërmjet një sinteze të panteizmit bektashi dhe romantizmit europian.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

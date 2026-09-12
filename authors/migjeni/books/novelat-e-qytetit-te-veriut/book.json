@@ -1,0 +1,23 @@
+{
+  "title": "Novela",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Prozë", "Klasike"],
+  "publicationYear": 1955,
+  "synopsis": "Përmbledhja e tregimeve të Migjenit, e mbledhur dhe botuar pas vdekjes së tij. Tregimet u shkruan e u botuan në gazetën «Illyria» të Shkodrës gjatë viteve 1934–1938 («Tregovina e Madhe», «Kërcënimi», «Lena nën tufllijet e vdekjes», «Zilet e akompanimit»), duke e vendosur njëzëri prozën shqipe te jeta e varfër e qytetit: shitësit ambulantë, prostitutat, mërgimtarët, fëmijët e lagjeve — pa ndjenja të tepërta, me syrin e ftohtë realist që i dha asaj modernitetin e parë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "sources": [
+      {
+        "name": "Wikipedia — Migjeni",
+        "url": "https://sq.wikipedia.org/wiki/Migjeni",
+        "note": "Autori vdiq më 1938 — vepra në domain publik; teksti pret digjitizim"
+      }
+    ]
+  }
+}

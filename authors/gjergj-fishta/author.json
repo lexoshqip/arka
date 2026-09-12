@@ -1,0 +1,17 @@
+{
+  "name": "Gjergj Fishta",
+  "dates": "1871–1940",
+  "born": 1871,
+  "died": 1940,
+  "bornPlace": "Fishtë",
+  "diedPlace": "Shkodër",
+  "epochId": "rilindja",
+  "kind": "albanian",
+  "isFeatured": true,
+  "bio": "Frër françiskan, poet, dramaturg, pedagog dhe përkthyes — i njohur gjerësisht si «poeti kombëtar» i Shqipërisë. Rridhte nga Fishta e Zadrimës dhe u formua në kolegjin françeskane të Shkodrës e në Bosnje. Vepra e tij madhore, «Lahuta e Malcís» (30 këngë), e ngriti epopenë popullore të malësisë në nivelin e epopeve kombëtare evropiane. Shkroi gjithashtu komedinë satirike «Anzat e Parnasit», drama «Juda Makabe» e «Shqiptari i qytetnuem», ndërsa si pjesëmarrës në delegacionin shqiptar të Konferencës së Paqisë në Paris (1919) mbrojti çështjen kombëtare. Përktheu Homerin, Miltonin e Geten; drejtoi revistën «Zani i Shna Ndout». Vdiq në Shkodër më 1940.",
+  "wikipedia": "https://sq.wikipedia.org/wiki/Gjergj_Fishta",
+  "epochIds": [
+    "rilindja",
+    "pavaresia"
+  ]
+}

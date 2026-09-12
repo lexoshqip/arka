@@ -1,0 +1,17 @@
+{
+  "title": "Dituritë për mësonjëtoret të para",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Shkencë", "Arsim", "Filozofi"],
+  "publicationYear": 1888,
+  "synopsis": "Vepër enciklopedike e Naim Frashërit botuar në Bukuresht në 1888, që paraqet njohuri të ndryshme shkencore dhe filozofike në gjuhën shqipe. Pjesë e projektit të madh naimit për arsimimin e popullit shqiptar nëpërmjet literaturës didaktike.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

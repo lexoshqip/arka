@@ -1,0 +1,25 @@
+{
+  "title": "Pasëqyra e t'rrëfyemit",
+  "epochId": "e-vjeter",
+  "isFeatured": false,
+  "tags": ["Fetare", "Prozë"],
+  "publicationYear": 1621,
+  "synopsis": "Udhëzues rrëfimi i botuar nga Pjetër Budi, njëra nga veprat e tij origjinale dhe jo vetëm përkthim. Është ndër shembujt e parë të prozës origjinale shqipe, jo kalkim i drejtpërdrejtë nga latinishtja, dhe dëshmon aftësinë e Budit për të shkruar shqip me stil të lirë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVII, qartazi në domain publik.",
+    "sources": [
+      {
+        "name": "arkiva.me — PDF i skanuar",
+        "url": "http://pdf.arkiva.me/Libra/1621/1621-PDF-L-pasqyra-e-te-rrefyemit-pjeter-budi.pdf",
+        "note": "Skanim i digjitizuar nga Biblioteka Kombëtare e Shqipërisë"
+      }
+    ]
+  }
+}

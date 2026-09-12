@@ -1,0 +1,17 @@
+{
+  "title": "Këngët e Milosaos",
+  "epochId": "rilindja",
+  "isFeatured": true,
+  "tags": ["Poezi", "Epikë", "Arbërisht"],
+  "publicationYear": 1836,
+  "synopsis": "Vepra e parë dhe më e famshme e Jeronim De Radës — cikël poemash lirike i botuar kur autori ishte 22 vjeç, duke inauguruar romanticizmin shqip. Nëpërmjet dashurisë tragjike të Milosaos dhe Rinës, De Rada rindërton kujtesën kolektive arbëreshe me frymë homeriane dhe sensibilitet romantik. Ndikoi thellë brezat e Rilindjes dhe mbetet një nga veprat themelore të letërsisë shqipe. Botimi është dygjuhësh: teksti origjinal arbërisht (dialekti shqiptar i Italisë së Jugut) me përkthim paralel në italisht — të dyja gjuhët janë të pranishme në të njëjtin vëllim.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1903 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Vjersha",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Patriotike", "Antologji"],
+  "synopsis": "Antologji e poezisë patriotike dhe lirike të Luigj Gurakuqit — ndër to himni «Rreth flamurit të përbashkuar» dhe vjersha të tjera kombëtare. Vepra e tij poetike, relativisht e vogël, pasqyron shpirtin e martirit — njeriut që dha jetën për atdheun — dhe mbetet dëshmi e zërit të brezit të Pavarësisë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1925 — vepra në domain publik."
+  }
+}

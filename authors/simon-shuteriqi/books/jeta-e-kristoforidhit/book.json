@@ -1,0 +1,18 @@
+{
+  "title": "Jeta e Kostandin Kristoforidhit",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Jetëshkrim", "Gjuhësi", "Histori"],
+  "publicationYear": 1911,
+  "synopsis": "Jetëshkrim i Kostandin Kristoforidhit nga nipëri i tij Simon Shuteriqi, botuar në Manastir në 1911 — vepra e parë biorgrafike kushtuar gjuhëtarit dhe përkthyesit të madh të Biblës shqipe. Shkruar me alfabetin e Naim Frashërit, vepra dokumenton jetën dhe kontributet e Kristoforidhit për gjuhën dhe letërsinë shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori lindi rreth viteve 1870 — vepra e botuar në 1911 është në domain publik."
+  }
+}

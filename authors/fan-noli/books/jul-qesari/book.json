@@ -1,0 +1,28 @@
+{
+  "title": "Jul Qesari",
+  "collectionIds": ["klasike-perkthyer"],
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Teatër", "Klasikë të Përkthyer"],
+  "publicationYear": 1953,
+  "originalTitle": "Julius Caesar",
+  "originalLanguage": "en",
+  "translator": "Fan Noli",
+  "synopsis": "Drama historike e Uilliam Shekspirit mbi vrasjen e Jul Qesarit dhe pasojat e saj — në përkthimin shqip të Fan Nolit, botuar në Prishtinë më 1953 (ribotime nga varianti i botimit të parë, Bruksel 1926). Përkthimi i Nolit — me gjuhë poetike dhe shqipe të lartë — mbetet versioni kanonik i Shekspirit shqip.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botimi i parë Bruksel 1926 (para 1928) — domain publik sipas ligjit amerikan. Fan Noli jetoi dhe botoi në SHBA; gjendet gjithashtu lirisht në FLOSSK nën CC BY-SA 4.0.",
+    "sources": [
+      {
+        "name": "FLOSSK — Platformë librash të digjitalizuar",
+        "url": "https://books.flossk.org/2020/10/23/jul-qesari/",
+        "note": "Botimi origjinal i përkthimit: Bruksel 1926; ribotim Prishtinë 1953"
+      }
+    ]
+  }
+}

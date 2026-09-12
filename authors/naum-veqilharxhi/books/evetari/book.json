@@ -1,0 +1,19 @@
+{
+  "title": "Evëtari",
+  "epochId": "rilindja",
+  "collectionIds": ["femije"],
+  "isFeatured": true,
+  "tags": ["Abetare", "Arsim", "Fëmijë", "Gjuhë shqipe"],
+  "publicationYear": 1844,
+  "synopsis": "Libri i parë shkollor shqip — abetarja e hartuar nga Naum Veqilharxhi me alfabetin e tij origjinal prej 33 shkronjash, botuar në Bukuresht më 1844. Veqilharxhi i dha prioritet pavarësisë nga çdo tradita fetare: as latinishte, as greke, as arabe — vetëm shqipja. «Evëtari» hapi rrugën e arsimimit kombëtar dhe është dokumenti themeltar i alfabetizmit shqip.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1854 — vepra në domain publik pa asnjë rezervë."
+  }
+}

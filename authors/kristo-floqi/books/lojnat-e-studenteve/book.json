@@ -1,0 +1,16 @@
+{
+  "title": "Lojnat e studentëve",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Komedi", "Dramë", "Satirë", "Rini"],
+  "synopsis": "Komedi e Kristo Floqit mbi jetën studentore — humor i gjallë mbi aventurat, dashoritë dhe intrigat e rinisë shqiptare të viteve ndërlufëtare. Floqi portretizon me dashuri dhe ironi breznin e ri të formuar në shkollat e reja shqiptare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1951 — vepra në domain publik."
+  }
+}

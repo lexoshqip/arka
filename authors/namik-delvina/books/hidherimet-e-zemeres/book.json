@@ -1,0 +1,17 @@
+{
+  "title": "Hidhërimet e zemërës",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Patriotike", "Kombëtare"],
+  "synopsis": "Katër vjersha kombëtare të Namik Delvinës, shkruara para Pavarësisë — poezi me frymë atdhetare që shprehin dhimbjen dhe shpresën e brezit rilindas para çlirimit kombëtar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1933 — vepra në domain publik."
+  }
+}

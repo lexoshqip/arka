@@ -1,0 +1,18 @@
+{
+  "title": "Vjersha për mësonjëtoret e para",
+  "epochId": "rilindja",
+  "collectionIds": ["femije"],
+  "isFeatured": false,
+  "tags": ["Poezi", "Fëmijë", "Arsim"],
+  "publicationYear": 1886,
+  "synopsis": "Vëllimi i parë i poezisë për fëmijë në letërsinë shqipe, botuar në Bukuresht në 1886. Vjersha të thjeshta e të ëmbla të shkruara për klasat e para të shkollave shqipe — teksti i parë poetik i dedikuar fëmijëve shqiptarë, ku Naimi ndërthur edukimin kombëtar me lumturinë e fëmijërisë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

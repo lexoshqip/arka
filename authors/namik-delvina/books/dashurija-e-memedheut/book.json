@@ -1,0 +1,18 @@
+{
+  "title": "Dashurija e memedheut",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Teatër", "Patriotike"],
+  "publicationYear": 1909,
+  "synopsis": "Dramë me tetë pamje e Namik Delvinës, botuar në Selanik në 1909 — ndër dramat e para të shkruara dhe botuara në gjuhën shqipe. Vepra trajton dashurinë për atdheun dhe vetëdijet kombëtare, duke e ngritur çështjen shqiptare në skenë para syve të diasporës.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1933 — vepra në domain publik."
+  }
+}

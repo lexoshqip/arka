@@ -1,0 +1,18 @@
+{
+  "title": "Vdekja e Pirros",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Dramë", "Histori", "Tragjedi"],
+  "publicationYear": 1906,
+  "synopsis": "Dramë historike e Mihal Gramenos në katër pamje — figura e Pirros, mbretit të Epirit, si simbol i heroizmit dhe fatalitetit. Vepra trajton tema të pushtetit, trimërisë dhe fates tragji, duke i dhënë kuptim historik kombit shqiptar përmes trashëgimisë antike.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1931 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Albania: A Narrative of Recent Travel",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Udhëpërshkrim", "Albaniana"],
+  "publicationYear": 1880,
+  "language": "en",
+  "synopsis": "Një nga dëshmitë e hershme angleze mbi Shqipërinë — rrëfimi i udhëtimit të E. F. Knight nëpër territoret shqiptare rreth vitit 1880. Libri dokumenton peizazhin, njerëzit dhe zakonet e një vendi që pak europianë e kishin parë, duke ofruar një pamje të pazëvendësueshme historike të Shqipërisë para shpalljes së pavarësisë.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "epub": "book.epub", "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1925 — vepra në domain publik.",
+    "sources": [
+      {
+        "name": "Internet Archive — skanim origjinal",
+        "url": "https://archive.org/details/albanianarrative00knigrich",
+        "note": "Skanim i botimit origjinal 1880"
+      }
+    ]
+  }
+}

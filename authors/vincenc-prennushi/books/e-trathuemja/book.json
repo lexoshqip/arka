@@ -1,0 +1,16 @@
+{
+  "title": "E trathuemja",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Tragjedi", "Tradhtia"],
+  "synopsis": "Dramë e Vincenc Prennushit — tragjedi e tradhtisë dhe pasojave të saj morale. Vepër dramatike që pasqyron interesin e autorit për konfliktet etike dhe sociale të shoqërisë shqiptare të periudhës ndërlufëtare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1949 — vepra në domain publik."
+  }
+}

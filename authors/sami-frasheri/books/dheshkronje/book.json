@@ -1,0 +1,17 @@
+{
+  "title": "Dheshkronjë",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Gjeografi", "Arsim", "Shkencë"],
+  "publicationYear": 1888,
+  "synopsis": "Libri i parë i gjeografisë në gjuhën shqipe, hartuar nga Sami Frashëri si tekst shkollor për shkollat shqipe. Botuar në Bukuresht në 1888, «Dheshkronjë» — fjalë e krijuar nga Samiu vetë për «gjeografi» — paraqet konceptet bazë të gjeografisë fizike dhe politike në gjuhën shqipe, duke pasuruar fjalorin shkencor të saj.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1904 — vepra në domain publik."
+  }
+}

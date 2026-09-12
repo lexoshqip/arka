@@ -1,0 +1,16 @@
+{
+  "title": "Valë mbi valë",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Ese", "Shpirtëror"],
+  "synopsis": "Vëllim poetik dhe meditativ i Anton Harapit — shkrime lirike dhe reflektime shpirtërore që pasqyrojnë botën e brendshme të një klerikut françeskan mes dashurisë për atdheun dhe besimit fetar. Titulli evokues — «valë mbi valë» — sugjeron lëvizjen e pandalshme të mendimit dhe ndjenjës.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1946 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Kængët e Litòrit",
+  "titleOriginal": "I canti del Littorio",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Arbërisht", "Dygjuhësh"],
+  "publicationYear": 1924,
+  "synopsis": "Vëllim dygjuhësh arbërisht-italisht — teksti shqip (arbërisht) me përkthim literal italian ballë për ballë. 48 faqe.",
+  "language": "sq",
+  "languageNote": "Dygjuhësh arbërisht-italisht",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1927 — vepra në domain publik."
+  }
+}

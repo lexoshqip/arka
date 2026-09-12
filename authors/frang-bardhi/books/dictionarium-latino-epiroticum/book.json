@@ -1,0 +1,25 @@
+{
+  "title": "Dictionarium Latino-Epiroticum",
+  "epochId": "e-vjeter",
+  "isFeatured": false,
+  "tags": ["Gjuhësi", "Fjalor"],
+  "publicationYear": 1635,
+  "language": "sq",
+  "synopsis": "Fjalori i parë latinisht-shqip, i botuar nga Frang Bardhi në Romë më 1635. Përmban mbi 5000 hyrje dhe është burimi kryesor leksikografik i shqipes veriore të shekullit XVII. Ka vlerë të jashtëzakonshme si dëshmi gjuhësore dhe si vepër pioniere e leksikografisë shqipe.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVII, qartazi në domain publik.",
+    "sources": [
+      {
+        "name": "Internet Archive — bub_gb_PJP7gP1p-JAC",
+        "url": "https://archive.org/details/bub_gb_PJP7gP1p-JAC",
+        "note": "Skanim i digjitizuar i botimit origjinal të Romës, 1635"
+      }
+    ]
+  }
+}

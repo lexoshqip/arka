@@ -1,0 +1,17 @@
+{
+  "title": "Shqiponja arbënore",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Tregime", "Patriotike", "Identitet Kombëtar"],
+  "synopsis": "Vepër prozaike e Terenc Toçit — ndodhi dhe fragmente nga shpirti i shqiptarit, shkruar nga ky arbëresh i Italisë me dashuri të thellë për Shqipërinë dhe popullin shqiptar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1945 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Këndime për Shkollë të para të Shqypnis. Libri i parë",
+  "epochId": "rilindja",
+  "collectionIds": ["femije"],
+  "isFeatured": false,
+  "tags": ["Lexim", "Arsim", "Fëmijë"],
+  "synopsis": "Libri i parë i leximit për shkollat fillore shqipe, hartuar nga Ndre Mjeda — tekst shkollor me proza dhe poezi të shkurtra për mësimin e leximit në gegërishten e Shkodës. Botuar në disa edicione (shtampa e dytë, botimi i tretë), dëshmi e përdorimit të gjerë në shkollat shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1937 — vepra në domain publik."
+  }
+}

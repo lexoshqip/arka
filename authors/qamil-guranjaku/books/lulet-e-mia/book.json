@@ -1,0 +1,18 @@
+{
+  "title": "Lulet e mia",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Fëmijë", "Edukim"],
+  "publicationYear": 1935,
+  "synopsis": "Vëllim poetik i Qamil Guranjaku, botuar në 1935 — vjersha dhe tregime të destinuara për fëmijët e shkollave fillore. Vepra ndër të parat të letërsisë shqipe për fëmijë, me gjuhë të thjeshtë dhe ngrohtësi shpirtërore.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1949 — vepra në domain publik."
+  }
+}

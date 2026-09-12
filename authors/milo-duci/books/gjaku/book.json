@@ -1,0 +1,18 @@
+{
+  "title": "Gjaku",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Teatër", "Shoqëri"],
+  "publicationYear": 1912,
+  "synopsis": "Dramë e Milo Duçit — vepër dramatike që trajton tema sociale dhe familjare të shoqërisë shqiptare, duke eksploruar konfliktet njerëzore dhe morale.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1933 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Mësime",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Arsim", "Didaktikë", "Morali"],
+  "publicationYear": 1894,
+  "synopsis": "Vepër didaktike e Naim Frashërit, 136 faqe, me mësime morale dhe shkencore të destinuara për arsimimin e popullit shqiptar. Pasqyron projektin e madh edukues të Naimit për ngritjen e ndërgjegjës kombëtare nëpërmjet diturisë dhe moralit.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Vargje të zgjedhura",
+  "epochId": "shekulli-xviii",
+  "isFeatured": false,
+  "tags": ["Poezi", "Bektashizëm", "Antologji"],
+  "synopsis": "Antologji e poezisë së Hasan Zyko Kamberit — vargjeve filozofike, didaktike dhe lirike të shkruara me alfabet arab. Stili i tij shquhet nga frymëzimi sufi i kombinuar me gjuhë shqipe të gjallë dhe sens të mprehtë realiteti, duke e bërë ndër bejtexhinjtë me personalitetin letrar më të dallueshëm.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "partial-text",
+  "formats": { "md": "text.md" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVIII, qartazi në domain publik."
+  }
+}

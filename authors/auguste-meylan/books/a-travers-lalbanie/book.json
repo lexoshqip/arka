@@ -1,0 +1,25 @@
+{
+  "title": "A travers l'Albanie",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Udhëpërshkrim", "Albaniana"],
+  "publicationYear": 1886,
+  "language": "fr",
+  "synopsis": "Rrëfim i udhëtimit të Auguste Meylanit nëpër Shqipëri në vitet 1880 — një nga dëshmi më të plota franceze të periudhës mbi gjeografinë, zakonet, njerëzit dhe qytetet shqiptare, me vëmendje të veçantë ndaj Ulqinit dhe bregdetit.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botuar në 1886, qartazi në domain publik.",
+    "sources": [
+      {
+        "name": "arkiva.me — PDF i skanuar",
+        "url": "http://pdf.arkiva.me/Libra/1886/1886-PDF-L-A-travers-l-Albanie-Ulqini.pdf",
+        "note": "Skanim i botimit origjinal, 1886"
+      }
+    ]
+  }
+}

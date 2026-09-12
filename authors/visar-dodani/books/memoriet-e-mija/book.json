@@ -1,0 +1,17 @@
+{
+  "title": "Memoriet e mija",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Kujtime", "Rilindja", "Diasporë", "Bukuresht"],
+  "synopsis": "Kujtime të Visar Dodanit nga zhvillimet e para të Rilindjes Kombëtare shqiptare në Bukuresht — dëshmi e dorës së parë nga njëri prej aktivistëve kryesorë të shoqatës Drita dhe gazetës Shqipëria në kryeqytetin rumun.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1939 — vepra në domain publik."
+  }
+}

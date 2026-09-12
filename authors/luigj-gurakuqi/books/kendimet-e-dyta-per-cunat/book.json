@@ -1,0 +1,17 @@
+{
+  "title": "Kendimét e Dyta për Çunat",
+  "epochId": "rilindja",
+  "collectionIds": ["femije"],
+  "isFeatured": false,
+  "tags": ["Lexim", "Arsim", "Fëmijë"],
+  "synopsis": "Libri i dytë i leximit për djemtë e shkollave shqipe, hartuar nga Luigj Gurakuqi. Tekst shkollor me materiale leximi të nivelit të mesëm për arsimin fillor shqip. 148 faqe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1925 — vepra në domain publik."
+  }
+}

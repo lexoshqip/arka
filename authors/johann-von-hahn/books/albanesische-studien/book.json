@@ -1,0 +1,20 @@
+{
+  "title": "Albanesische Studien",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Gjuhësi", "Etnografi", "Albaniana"],
+  "publicationYear": 1854,
+  "originalLanguage": "de",
+  "language": "de",
+  "synopsis": "Studimi i parë shkencor gjithëpërfshirës i gjuhës, historisë dhe etnografisë shqiptare — botuar nga Johann Georg von Hahn në Vjenë, 1854. Hartuar gjatë misionit diplomatik të Hahn-it si konsull austriak në Janinë, vepra themeloi albanologjinë si disiplinë akademike europiane dhe mbetet burim referimi i pazëvendësueshëm.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1869 — vepra në domain publik.",
+    "sources": [{ "name": "Internet Archive — University of Michigan", "url": "https://archive.org/details/ahy9953.0001.001.umich.edu" }]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Çeta e Profetëve",
+  "epochId": "e-vjeter",
+  "isFeatured": true,
+  "tags": ["Fetare", "Filozofi", "Prozë"],
+  "publicationYear": 1685,
+  "originalTitle": "Cuneus Prophetarum",
+  "synopsis": "Vepra kryesore e Pjetër Bogdanit dhe kulmi i letërsisë shqipe të periudhës së vjetër — traktat teologjik-filozofik i botuar njëkohësisht shqip dhe italisht në Padovë, 1685. Organizuar si dialog mes profetëve dhe Krishtit, vepra trajton teologjinë, filozofinë dhe historinë me nivel të lartë intelektual. Gjuha shqipe e Bogdanit — e pasur, e strukturuar dhe e pastër — e kapërcen shumë shkrimtarët e bashkëkohëve të tij.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVII, qartazi në domain publik.",
+    "sources": [
+      {
+        "name": "Internet Archive — bub_gb_kToa0X3CsLkC",
+        "url": "https://archive.org/details/bub_gb_kToa0X3CsLkC",
+        "note": "Skanim i botimit origjinal të Padovës, 1685"
+      }
+    ]
+  }
+}

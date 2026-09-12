@@ -1,0 +1,18 @@
+{
+  "title": "Pushka e tradhtarit",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Roman", "Histori", "Patriotike"],
+  "publicationYear": 1914,
+  "synopsis": "Roman historik i Zef M. Harapit, botuar në Shkodër në 1914 — vepër prozaike me frymë patriotike dhe romantike, e vendosur në kontekstin e historisë shqiptare. Ndër romanet e hershme historike të letërsisë shqipe të veriut, që hapi rrugën e rrëfimit historik shkodran.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botuar në 1914; autori i panjohur — vepra mbi 70 vjet e vjetër, në domain publik."
+  }
+}

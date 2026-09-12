@@ -1,0 +1,18 @@
+{
+  "title": "Historia e Shqipërisë së Re",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Histori", "Dokumentar", "Publicistikë"],
+  "publicationYear": 1923,
+  "synopsis": "Vepër historike e Sali Hallkokondisë, botuar në 1923 — kronologji dhe analizë e Shqipërisë pas shpalljes së pavarësisë. Vepra dokumenton ngjarjet dhe zhvillimet politike të dekadës së parë të shtetit shqiptar të pavarur.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1936 — vepra në domain publik."
+  }
+}

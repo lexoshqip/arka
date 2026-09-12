@@ -1,0 +1,17 @@
+{
+  "title": "Cilët janë shqipëtarët?",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Histori", "Identitet Kombëtar", "Studim"],
+  "synopsis": "Ese historike e Kristo Dakos — 44 faqe që shqyrtojnë origjinën dhe identitetin e popullit shqiptar, duke mbrojtur tezën e prejardhjes ilire dhe veçantinë e shqiptarëve në kontekstin ballkanik.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1941 — vepra në domain publik."
+  }
+}

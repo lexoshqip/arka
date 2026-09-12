@@ -1,0 +1,18 @@
+{
+  "title": "Zan' i Atdheut",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Patriotike", "Kombëtare"],
+  "publicationYear": 1913,
+  "synopsis": "Vëllim poetik i Hilë Mosit botuar në Trieste më 1913 — zëri poetik i atdheut të sapoliruar. Këngë kombëtare dhe patriotike të botuara në vitin e Pavarësisë, që shprehin gëzimin, shpresën dhe përgjegjësinë e brezit të ri shqiptar ndaj shtetit të ri.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1933 — vepra në domain publik."
+  }
+}

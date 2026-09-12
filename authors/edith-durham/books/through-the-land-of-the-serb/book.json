@@ -1,0 +1,19 @@
+{
+  "title": "Through the Land of the Serb",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Udhëpërshkrim", "Ballkan", "Albaniana"],
+  "publicationYear": 1904,
+  "language": "en",
+  "synopsis": "Libri i parë i udhëtimeve ballkanike të Edith Durhame — kronike e ekspedicioneve të saj të hershme nëpër Serbi, Mal të Zi dhe territoret shqiptare para Luftërave Ballkanike. Themeloi vokacionin e saj si dëshmitare okular e çështjes shqiptare dhe kontekstit rajonor në të cilin ajo lindi.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "epub": "book.epub" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1944 — vepra në domain publik.",
+    "sources": [{ "name": "Project Gutenberg — ebook #41499", "url": "https://www.gutenberg.org/ebooks/41499" }]
+  }
+}

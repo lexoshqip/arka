@@ -1,0 +1,16 @@
+{
+  "title": "Prej robnie në liri",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Patriotike", "Liri", "Histori"],
+  "synopsis": "Dramë patriotike e Vincenc Prennushit — rrugëtimi nga robëria drejt lirisë, temë qendrore e letërsisë shqipe të periudhës pas-Pavarësisë. Vepra pasqyron frymën e kohës dhe angazhimin e Prennushit si klerik dhe patriot në ndërtimin e vetëdijes kombëtare shqiptare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1949 — vepra në domain publik."
+  }
+}

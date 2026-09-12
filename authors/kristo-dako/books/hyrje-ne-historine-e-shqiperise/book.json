@@ -1,0 +1,17 @@
+{
+  "title": "Hyrje në historinë e Shqipërisë",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Histori", "Studim", "Identitet Kombëtar"],
+  "publicationYear": 1920,
+  "synopsis": "Vepër historike e Kristo Dakos — hyrje sintetike dhe argumentuese në historinë e shqiptarëve, që mbron tezën e origjinës iliro-shqiptare dhe paraqet kontinuitetin historik të popullit shqiptar. Shkruar me qëllim arsimor dhe publicistik për audiencën shqiptare-amerikane.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1941 — vepra në domain publik."
+  }
+}

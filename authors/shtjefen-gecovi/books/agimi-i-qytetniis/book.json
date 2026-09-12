@@ -1,0 +1,17 @@
+{
+  "title": "Agimi i qytetniis",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Edukim", "Kulturë", "Publicistikë"],
+  "synopsis": "Vepër e Shtjefën Gjeçovit mbi çështjet e kulturës dhe qytetërimit shqiptar — shkrim i angazhuar nga një ndër intelektualët dhe folkloristët më të rëndësishëm të veriut shqiptar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1917 — vepra në domain publik."
+  }
+}

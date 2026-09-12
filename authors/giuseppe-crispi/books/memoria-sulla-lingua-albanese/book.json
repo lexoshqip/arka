@@ -1,0 +1,19 @@
+{
+  "title": "Memoria sulla lingua albanese",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Gjuhësi", "Albaniana"],
+  "publicationYear": 1831,
+  "originalLanguage": "it",
+  "language": "it",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "accessType": "full",
+  "channel": "main",
+  "synopsis": "Studim i hershëm albanologjik i Giuseppe Crispit mbi gjuhën shqipe nga perspektiva e komuniteteve arbëreshe të Sicilisë — kontribut i rëndësishëm për albanologjinë e shekullit XIX.",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1859 — vepra në domain publik."
+  }
+}

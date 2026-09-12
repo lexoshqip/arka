@@ -1,0 +1,17 @@
+{
+  "title": "Dasma Lunxhore",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Dramë", "Teatër", "Folklor"],
+  "publicationYear": 1874,
+  "synopsis": "Dramë e shkruar nga Koto Hoxhi dhe vënë në skenë në Gjirokastër në vitin 1874 — një nga shfaqjet e para teatrale të interpretuara në gjuhën shqipe. Bazuar mbi zakonet dhe traditat e zonës së Lunxhërisë, drama pasqyron jetën popullore të jugut shqiptar me gjuhë të gjallë dhe karaktere autentike. Ngjarja e vitit 1874 u bë simbol i zgjimit kulturor shqiptar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1895 — vepra në domain publik."
+  }
+}

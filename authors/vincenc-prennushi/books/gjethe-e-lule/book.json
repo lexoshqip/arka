@@ -1,0 +1,17 @@
+{
+  "title": "Gjethe e lule",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Lirikë", "Shpirtëror", "Natyrë"],
+  "publicationYear": 1924,
+  "synopsis": "Vëllimi poetik kryesor i Vincenc Prennushit, botuar në 1924 — lirika e një françeskani mes natyrës, besimit dhe dashurisë për atdheun. Prennushi kombinon ndjeshmërinë lirike me frymën franceskane të thjeshtësisë dhe bukurisë natyrore, duke krijuar një zë unik në poezinë shqipe të periudhës ndërlufëtare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1949 — vepra në domain publik."
+  }
+}

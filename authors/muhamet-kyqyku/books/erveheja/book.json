@@ -1,0 +1,17 @@
+{
+  "title": "Erveheja",
+  "epochId": "shekulli-xviii",
+  "isFeatured": false,
+  "tags": ["Poezi", "Poemë", "Romancë"],
+  "synopsis": "Poema narrative kryesore e Muhamet Kyçykut — historia romantike e dashurisë së Ervehejas, e frymëzuar nga tradita e poezisë perse dhe osmane por e shkruar me gjuhë shqipe të gjallë. Ndër poemat më të gjata dhe më të punuara të letërsisë shqipe me alfabet arab, «Erveheja» shënon kalimin nga bejtexhinjtë drejt sensibilitetit romantik të Rilindjes.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "partial-text",
+  "formats": { "md": "text.md" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVIII-XIX, qartazi në domain publik."
+  }
+}

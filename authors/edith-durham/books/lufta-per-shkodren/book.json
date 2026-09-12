@@ -1,0 +1,26 @@
+{
+  "title": "Lufta për Shkodrën",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Histori", "Udhëpërshkrim", "Albaniana"],
+  "publicationYear": 1914,
+  "originalTitle": "The Struggle for Scutari",
+  "language": "en",
+  "synopsis": "Kronika e Edith Durham mbi luftimet e vitit 1912–1913 për Shkodrën gjatë Luftërave Ballkanike — vëzhgim i drejtpërdrejtë nga dëshmitarja okular më e njohur angeze e Shqipërisë. Durham dokumenton rrethimin, diplomacinë dhe fatin e popullsisë shqiptare me zërin e saj karakteristik të guximshëm.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botuar në 1914 — në domain publik.",
+    "sources": [
+      {
+        "name": "arkiva.me — PDF i skanuar",
+        "url": "http://pdf.arkiva.me/Libra/1914/1914-PDF-L-Lufta-per-shkodren-strugle-scutari-edith-durham.pdf",
+        "note": "Skanim i botimit origjinal anglez, 1914"
+      }
+    ]
+  }
+}

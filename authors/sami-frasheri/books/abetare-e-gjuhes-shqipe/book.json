@@ -1,0 +1,18 @@
+{
+  "title": "Abetare e gjuhës shqipe",
+  "epochId": "rilindja",
+  "collectionIds": ["femije"],
+  "isFeatured": false,
+  "tags": ["Abetare", "Arsim", "Gjuhë shqipe", "Fëmijë"],
+  "publicationYear": 1886,
+  "synopsis": "Libri i parë shkollor i hartuar nga Sami Frashëri për shkollat shqipe — abetarja themelore e gjuhës shqipe me alfabetin e ri latin. Botuar në Stamboll në 1886 nën kujdesin e shoqërisë «Drita», së bashku me «Shkronjtoren» (gramatikën) dhe «Dheshkronjën» (gjeografinë), formoi grupin e parë të teksteve shkollore shqipe. Vepra historike për arsimimin kombëtar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1904 — vepra në domain publik."
+  }
+}

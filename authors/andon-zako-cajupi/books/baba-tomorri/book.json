@@ -1,0 +1,17 @@
+{
+  "title": "Baba Tomorri",
+  "epochId": "rilindja",
+  "isFeatured": true,
+  "tags": ["Poezi", "Satirë", "Patriotike"],
+  "publicationYear": 1902,
+  "synopsis": "Vëllimi poetik kryesor i Andon Zako Çajupit, botuar në Athinë më 1902. Përmban poezi lirike, satirike dhe patriotike — nga dashuritë dhe meditimet personale te kritikat e mprehta ndaj zakoneve shoqërore dhe thirrjet për zgjim kombëtar. Titulli merret nga mali i shenjtë Tomorrit. Stili i Çajupit shquhet për drejtëpërdrejtësi, humor dhe gjuhë popullore të gjallë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1930 — vepra në domain publik."
+  }
+}

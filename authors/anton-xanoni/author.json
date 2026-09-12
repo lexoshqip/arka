@@ -1,0 +1,14 @@
+{
+  "name": "Anton Xanoni",
+  "dates": "1862–1915",
+  "born": 1862,
+  "died": 1915,
+  "bornPlace": "Shkodër",
+  "diedPlace": "Shkodër",
+  "epochId": "rilindja",
+  "epochIds": ["pavaresia"],
+  "kind": "albanian",
+  "isFeatured": false,
+  "bio": "At jezuit, gjuhëtar, shkrimtar dhe pedagog shqiptar nga Shkodra — themelues i shkollës letrare jezuite shqipe dhe nismëtar i arsimit kombëtar shkodran. Studioi nëpër Spanjë, Dalmaci, Itali dhe Poloni, pastaj mësoi në Turin dhe Shkodër. Kontributes i rëndësishëm i gjuhësisë dhe letërsisë shqipe me gramatikë, tregime, poezi dhe vepra historike. Bashkëpunoi rregullisht me periodikun jezuit 'Elçija e Zemers t'Jezu Krisctit'.",
+  "wikipedia": "https://sq.wikipedia.org/wiki/Anton_Xanoni"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Peaks of Shala",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Udhëpërshkrim", "Etnografi", "Albaniana"],
+  "publicationYear": 1923,
+  "language": "en",
+  "synopsis": "Rrëfim i gjallë i udhëtimit të Rose Wilder Lane nëpër malësinë veriore shqiptare në vitet 1920. Libri kap me saktësi dhe ngrohtësi botën fisnore të Shales — mikpritjen, kanunin, peizazhin e egër dhe njerëzit e tij. Një prej vëzhgimeve më poetike dhe autentike që një e huaj ka shkruar ndonjëherë për Shqipërinë.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "epub": "book.epub" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1968 — vepra në domain publik në SHBA (botuar para 1928).",
+    "sources": [
+      {
+        "name": "Internet Archive — LibriVox edition",
+        "url": "https://archive.org/details/peaks_shala_ss_2203_librivox",
+        "note": "PDF i tekstit të plotë, 1923"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Shkurtorja e historis së moçme",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Histori", "Edukim", "Antikitet"],
+  "publicationYear": 1910,
+  "synopsis": "Histori e lashtësisë e shkruar nga At Anton Xanoni, botuar në Shkodër në 1910 — tekst shkollor i historisë së botës antike për nxënësit shqiptarë. Vepra pasqyron angazhimin e Xanonit si pedagog dhe stilist i gjuhës shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1915 — vepra në domain publik."
+  }
+}

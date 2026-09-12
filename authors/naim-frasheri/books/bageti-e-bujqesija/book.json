@@ -1,0 +1,29 @@
+{
+  "title": "Bagëti e Bujqësia",
+  "epochId": "rilindja",
+  "isFeatured": true,
+  "tags": ["Poezi", "Klasike"],
+  "publicationYear": 1886,
+  "altTitles": ["Bagëti' e bujqësija"],
+  "synopsis": "Vëllimi lirik më i famshëm i poezisë shqipe, botuar në Bukuresht në 1886 nën emrin e shoqërisë «Dituria». Në 36 këngë, Naim Frashëri këndon bukurinë e maleve e të fushave shqiptare, jetën e barinjve e të fshatarit, dashurinë për atdheun dhe kujtimet e fëmijërisë në Frashër — një himn bukolik që u bë kushtetuta shpirtërore e Rilindjes dhe ndër tekstet më të recituara të gjuhës shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "sources": [
+      {
+        "name": "Wikibooks — tekst i plotë shqip",
+        "url": "https://sq.wikibooks.org/wiki/Bag%C3%ABti%27_e_bujq%C3%ABsija",
+        "note": "Transkriptim i botimit origjinal (Bukuresht: Dituria, 1886); autori vdiq më 1900 — vepra në domain publik"
+      },
+      {
+        "name": "Plisi.org — faksimile i botimit origjinal",
+        "url": "https://plisi.org/libra/",
+        "note": "Faksimile PDF e botimit «Dituria», Bukuresht 1886"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Canti Popolari Albanesi delle Colonie d'Italia",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Poezi", "Folkllor", "Arbëresh", "Etnografi", "Albaniana"],
+  "publicationYear": 1908,
+  "language": "sq",
+  "synopsis": "Koleksion i këngëve popullore shqiptare të kolonive arbëreshe të Italisë, botuar nga studiuesi italian Michele Marchianò bazuar në një dorëshkrim të gjysmës së parë të shekullit XVIII. Vepra përfshin tekstin arbërisht me përkthim paralel italian, hyrje shkencore, shënime dhe një faksimil. Dokument i çmuar për traditën poetike dhe gjuhësore të arbëreshëve — materiali i brendshëm lidhet ngushtë me traditën e Nikolle Filjës dhe poezisë arbëreshe të Kalabrisë.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botuar në 1908 — në domain publik.",
+    "sources": [
+      {
+        "name": "Google Books — skanim i plotë",
+        "url": "https://books.google.com/books?id=RKPYAAAAMAAJ",
+        "note": "Botimi origjinal 1908, i disponueshëm falas"
+      }
+    ]
+  }
+}

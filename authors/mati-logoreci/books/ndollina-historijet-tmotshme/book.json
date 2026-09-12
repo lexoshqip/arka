@@ -1,0 +1,17 @@
+{
+  "title": "Ndollina historijet t'motshme",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Histori", "Edukim", "Antikitet"],
+  "synopsis": "Histori e lashtë e Mati Logoreçit — 116 faqe tekst historik hartuar në gegërishten e kultivuar të autorit, destinuar për arsimin shqiptar. Vepra pasqyron angazhimin e Logoreçit si pedagog dhe gjuhëtar purist.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1941 — vepra në domain publik."
+  }
+}

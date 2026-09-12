@@ -1,0 +1,18 @@
+{
+  "title": "Canti popolari dell' Albania",
+  "epochId": "rilindja",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Folklor", "Këngë popullore", "Arbërisht"],
+  "publicationYear": 1900,
+  "synopsis": "Koleksion këngësh popullore shqiptare i mbledhur dhe botuar nga Zef Skiroi në italisht — 100 faqe. Vepër folklorike e rëndësishme nga perspektiva e komunitetit arbëresh, paralele me punën e Thimi Mitkos.",
+  "language": "it",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1927 — vepra në domain publik."
+  }
+}

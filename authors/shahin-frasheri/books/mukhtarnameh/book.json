@@ -1,0 +1,17 @@
+{
+  "title": "Mukhtarnameh",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Epikë", "Bektashizëm", "Shia"],
+  "publicationYear": 1868,
+  "synopsis": "Epopeja kryesore e Shahin Frashërit — rreth 12,000 vargje — dhe njëra nga epet më të gjata dhe më të hershme të letërsisë shqipe. Poema rrëfen historinë e Muhtarit ibn Ebi Ubejidit dhe ngjarjet pas Betejës së Karbelas (680 AD), e shkruar në frymën bektashiane-shiite me alfabet arab. Përfunduar në 1868 — vepra e fundit e madhe bektashiane e shkruar shqip me shkrim arab.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1919 — vepra në domain publik."
+  }
+}

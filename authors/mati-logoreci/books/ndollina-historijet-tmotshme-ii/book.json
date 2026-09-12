@@ -1,0 +1,17 @@
+{
+  "title": "Ndollina historijet t'motshme : Blêe i II",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Histori", "Edukim", "Antikitet"],
+  "synopsis": "Libri i dytë i historisë së lashtë të Mati Logoreçit — vazhdim i vëllimit të parë, hartuar në gegërishten e kultivuar të autorit për arsimin shqiptar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1941 — vepra në domain publik."
+  }
+}

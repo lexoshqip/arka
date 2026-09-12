@@ -1,0 +1,18 @@
+{
+  "title": "Hamleti",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Përkthim", "Shakespeare"],
+  "originalTitle": "Hamlet",
+  "originalLanguage": "en",
+  "synopsis": "Përkthimi i Hamletit të Shekspirit nga Fan Noli — ndër veprat kulmore të artit të tij si përkthyes. Noli e rindërtoi tragjedi shekspiriane në shqipen toske me saktësi poetike dhe forcë dramatike, duke krijuar një tekst që mbetet kanonik në teatrin shqiptar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "unknown",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1965 — vepra në domain publik nga 2035 (life+70)."
+  }
+}

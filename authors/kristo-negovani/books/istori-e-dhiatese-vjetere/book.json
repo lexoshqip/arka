@@ -1,0 +1,17 @@
+{
+  "title": "Istori e Dhiatese Vjetere",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Fetare", "Histori", "Bibël"],
+  "synopsis": "Histori e Dhiatës së Vjetër në gjuhën shqipe nga Papa Kristo Negovani — tekst fetar i hartuar si pjesë e angazhimit të autorit për shërbimin liturgjik dhe arsimor në gjuhën shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1905 — vepra në domain publik."
+  }
+}

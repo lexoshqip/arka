@@ -1,0 +1,21 @@
+{
+  "title": "Udhëtari",
+  "epochId": "rilindja",
+  "collectionIds": ["klasike-perkthyer"],
+  "isFeatured": false,
+  "tags": ["Përkthim", "Alegori", "Fetare"],
+  "publicationYear": 1927,
+  "originalTitle": "The Pilgrim's Progress",
+  "originalLanguage": "en",
+  "translator": "Gjergj Qiriazi",
+  "synopsis": "Përkthimi shqip i veprës klasike alegorike të John Bunyan-it «The Pilgrim's Progress» (1678), realizuar nga Gjergj Qiriazi dhe botuar në 1927. Alegoria e udhëtimit shpirtëror të krishterë nga «Qyteti i Shkatërrimit» drejt «Qytetit Qiellor» gjeti shprehje të fuqishme në gjuhën shqipe, duke pasuruar letërsinë fetare protestante shqiptare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Teksti origjinal (1678) dhe përkthimi (autor vdiq 1912) janë të dy në domain publik."
+  }
+}

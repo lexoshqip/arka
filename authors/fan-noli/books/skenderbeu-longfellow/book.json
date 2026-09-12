@@ -1,0 +1,19 @@
+{
+  "title": "Skenderbeu",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Përkthim", "Skënderbeu", "Epikë"],
+  "synopsis": "Përkthim i Fan Nolit i poemës epike të Henry Wadsworth Longfellow kushtuar Gjergj Kastriotit Skënderbeut — heroi kombëtar shqiptar i kënduar nga njëri prej poetëve më të mëdhenj amerikanë, i sjellë në gjuhën shqipe nga Fan Noli.",
+  "language": "sq",
+  "originalLanguage": "en",
+  "originalAuthor": "Henry Wadsworth Longfellow",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Fan Noli vdiq në 1965; Longfellow vdiq në 1882 — vepra në domain publik."
+  }
+}

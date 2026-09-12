@@ -1,0 +1,26 @@
+{
+  "title": "Shkodra dhe rrafshina bregdetare e Shqipërisë Veriore",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Gjeografi", "Etnografi", "Albaniana"],
+  "publicationYear": 1907,
+  "originalTitle": "Scutari und die nordalbanische Küstenebene",
+  "language": "de",
+  "synopsis": "Studim i hollësishëm i diplomatit dhe albanologut austriak Theodor Ippen mbi Shkodrën dhe rrafshinën bregdetare të Shqipërisë Veriore — gjeografi, etnografi, histori dhe kulturë të rajonit, i shkruar nga dikush që e njohu terrenin nga afër si konsull austriak.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botuar në 1907, qartazi në domain publik.",
+    "sources": [
+      {
+        "name": "arkiva.me — PDF i skanuar",
+        "url": "http://pdf.arkiva.me/Libra/1907/1907-PDF-L-Shkodra-Teodor-Ipen.pdf",
+        "note": "Skanim i botimit origjinal gjermanisht, 1907"
+      }
+    ]
+  }
+}

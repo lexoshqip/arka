@@ -1,0 +1,21 @@
+{
+  "title": "Childe Harold's Pilgrimage — Kantet mbi Shqipërinë",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Poezi", "Romantike", "Albaniana"],
+  "publicationYear": 1812,
+  "originalTitle": "Childe Harold's Pilgrimage, Canto I–II",
+  "originalLanguage": "en",
+  "language": "en",
+  "synopsis": "Fragmente të Canto I dhe II të poemës epike të Lord Byronit, të shkruara pas vizitës së tij në Shqipëri në 1809. Byron u prit nga Ali Pasha i Janinës dhe u magjeps nga malësorët shqiptarë — e shprehu këtë mahnitje me vargje që i prezantuan shqiptarët lexuesit europian për herë të parë. Ndër dëshmitë poetike më të fuqishme të kulturës shqiptare nga syri i jashtëm.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "epub": "book.epub" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1824 — vepra në domain publik.",
+    "sources": [{ "name": "Project Gutenberg — ebook #5131", "url": "https://www.gutenberg.org/ebooks/5131" }]
+  }
+}

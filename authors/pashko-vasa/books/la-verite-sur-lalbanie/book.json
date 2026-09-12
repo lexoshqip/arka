@@ -1,0 +1,22 @@
+{
+  "title": "E vërteta mbi Shqipninë dhe shqiptarët",
+  "titleOriginal": "La vérité sur l'Albanie et les Albanais",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Ese", "Histori", "Politikë"],
+  "publicationYear": 1879,
+  "originalLanguage": "fr",
+  "synopsis": "Traktat historik dhe politik i Pashko Vasës në frëngjisht — prezantim i historisë, kulturës dhe aspiratave të kombit shqiptar drejtuar opinionit publik dhe diplomatëve evropianë pas Kongresit të Berlinit (1878). Ishte thirrje e drejtpërdrejtë ndaj fuqive të mëdha për njohjen e të drejtave shqiptare dhe mbetet dokumenti diplomatik më i rëndësishëm i Rilindjes.",
+  "language": "fr",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "variantLabels": {
+    "sq": "Shqip (përkth. Mehdi Frashëri)"
+  },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1892 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Varr' i pagëzimit",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Prozë", "Roman Dramatik", "Fetare", "Identitet"],
+  "publicationYear": 1909,
+  "synopsis": "Roman dramatik i Mihal Gramenos, botuar në Korçë në 1909 — vepër që eksploron identitetin fetar dhe kulturor të shqiptarëve. Bashkë me 'E puthura' dhe 'Oxhaku', formon bërthamën e romaneve dramatike të periudhës rilindase të Gramenos.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1931 — vepra në domain publik."
+  }
+}

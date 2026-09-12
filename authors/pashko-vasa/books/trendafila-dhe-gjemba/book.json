@@ -1,0 +1,25 @@
+{
+  "title": "Trëndafila dhe gjemba",
+  "titleOriginal": "Rose e Spine",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Patriotike", "Lirikë"],
+  "publicationYear": 1873,
+  "synopsis": "41 poezi lirike (~1600 vargje) botuar në Kostandinopojë në 1873 nga Stamperia di A. Coromila — 78 faqe. Shkruar në italisht në traditën e romantizmit europian (Leopardi, Lamartine, De Musset), me tema dashurie, vuajtjeje, vetmie, mërgimi dhe tragjedisë familjare. Dy poezi i janë kushtuar Petrarkës dhe Tassosë. Vepra e parë e Vasës dhe e vetmja që e tregon si poet europian para se ta kthente zërin drejt Shqipnisë. Nuk dihet të ekzistojë përkthim në shqip. Skan i vetëm i njohur: Biblioteka Universitare Shkodër.",
+  "language": "it",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1892 — vepra në domain publik.",
+    "sources": [
+      {
+        "name": "Biblioteka Universitare Shkodër — Arkivi Dixhital",
+        "url": "https://adsh.unishk.edu.al/items/show/44",
+        "note": "Skan i botimit origjinal 1873, i disponueshëm si imazh JPEG"
+      }
+    ]
+  }
+}

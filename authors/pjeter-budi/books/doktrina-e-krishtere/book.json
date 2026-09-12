@@ -1,0 +1,25 @@
+{
+  "title": "Doktrina e Krishterë",
+  "epochId": "e-vjeter",
+  "isFeatured": false,
+  "tags": ["Fetare", "Katekizëm"],
+  "publicationYear": 1618,
+  "synopsis": "Katekizmi i parë i botuar nga Pjetër Budi, bazuar në katekizmin e Roberto Bellarminit dhe të Ledesmas, i botuar në Romë. Është njëri nga vëllimet e para të prozës shqipe dhe burimi kryesor i gegërishtes veriore të shekullit XVII.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVII, qartazi në domain publik.",
+    "sources": [
+      {
+        "name": "arkiva.me — PDF i skanuar",
+        "url": "http://pdf.arkiva.me/Libra/1618/1618-PDF-L-Doktrina-e-krishtere-Pjeter-Budi.pdf",
+        "note": "Skanim i botimit origjinal të Romës, 1618"
+      }
+    ]
+  }
+}

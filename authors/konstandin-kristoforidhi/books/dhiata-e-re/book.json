@@ -1,0 +1,20 @@
+{
+  "title": "Dhiata e Re",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Përkthim", "Fetare", "Dhiata e Re", "Gjuhësi"],
+  "publicationYear": 1872,
+  "synopsis": "Përkthimi i Dhiatës së Re në gjuhën shqipe nga Konstandin Kristoforidhi, botuar nën kujdesin e Shoqërisë Biblike Britanike. Kristoforidhi prodhoi dy versione gjuhësore: gegërisht (1872) dhe toskërisht — dokument i çmuar jo vetëm fetar por edhe gjuhësor për studimin e shqipes së shekullit XIX. Të dy versionet janë të disponueshme si skanime origjinale.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "variantLabels": {
+    "gegerisht": "Gegërisht (1872)"
+  },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1895 — vepra në domain publik."
+  }
+}

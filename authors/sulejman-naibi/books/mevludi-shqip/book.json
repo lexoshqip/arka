@@ -1,0 +1,18 @@
+{
+  "title": "Mevludi shqip",
+  "epochId": "shekulli-xviii",
+  "isFeatured": false,
+  "tags": ["Poezi", "Fetare", "Bektashizëm"],
+  "publicationYear": 1795,
+  "synopsis": "Himni fetar mbi jetën dhe mrekullitë e Profetit Muhamed, i adaptuar nga Sulejman Naibi nga tradita orientale e mevludit dhe i rrënjosur në kulturën shqiptare bektashiane dhe sufi. Shkruar me alfabet arab (alhamiado), është ndër veprat kryesore të lirikës fetare shqipe të shekullit XVIII.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "partial-text",
+  "formats": { "md": "text.md" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVIII, qartazi në domain publik."
+  }
+}

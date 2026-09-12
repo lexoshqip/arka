@@ -1,0 +1,18 @@
+{
+  "title": "E puthura",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Prozë", "Roman Dramatik", "Sociale"],
+  "publicationYear": 1909,
+  "synopsis": "Roman dramatik i Mihal Gramenos, botuar në Korçë në 1909 — ndër veprat e para të prozës realiste shqipe. Grameno sjell personazhe nga shtresat e ulëta të shoqërisë shqiptare, duke hapur rrugën e letërsisë sociale dhe realiste kombëtare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1931 — vepra në domain publik."
+  }
+}

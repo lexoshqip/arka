@@ -1,0 +1,18 @@
+{
+  "title": "Nji shkurtim kujtimesh mbi kryengritjen shqyptare të vjetit 1912",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Kujtime", "Histori", "Patriotike", "Kosovë"],
+  "publicationYear": 1921,
+  "synopsis": "Kujtime të Hasan Prishtinës, botuar në Shkodër në 1921 — dëshmi e dorës së parë mbi kryengritjen shqiptare të vitit 1912 nga njëri prej organizatorëve kryesorë. Autori rrëfen ngjarjet, njerëzit dhe sakrificën e lëvizjes çlirimtare shqiptare, me qëllim që të ardhurat e botimit t'i dedikonte arsimit të fëmijëve jetimë të Kosovës, Dibrës dhe Çamërisë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1933 — vepra në domain publik."
+  }
+}

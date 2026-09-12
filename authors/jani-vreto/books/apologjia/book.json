@@ -1,0 +1,18 @@
+{
+  "title": "Apologjia",
+  "epochId": "rilindja",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Ese", "Publicistikë", "Gjuhë shqipe", "Të drejta kombëtare"],
+  "publicationYear": 1878,
+  "synopsis": "Ese publicistike e Jani Vretos botuar në 1878 në gjuhën greke — mbrojtje e argumentuar e origjinës shqiptare, e gjuhës dhe e territoreve të banuara nga shqiptarët, si dhe e të drejtave të tyre kombëtare. Një nga dokumentet e hershme të Rilindjes që bën thirrje për njohjen e identitetit kombëtar shqiptar, shkruar në greqisht për t'i drejtuar audiencat europiane të kohës.",
+  "language": "el",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Abetar",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Abetare", "Edukim", "Gjuhësi"],
+  "synopsis": "Abetare e Mati Logoreçit — tekst fillor për mësimin e lexim-shkrimit shqip, 96 faqe, hartuar nga një ndër pedagogët e shquar të veriut dhe kustodi i parë i Bibliotekës Kombëtare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1941 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Kanuni i Lekë Dukagjinit",
+  "epochId": "pavaresia",
+  "isFeatured": true,
+  "tags": ["Kanun", "E drejtë zakonore", "Etnografi", "Kulturë"],
+  "publicationYear": 1933,
+  "synopsis": "Kodi zakonor i malësisë shqiptare — mbledhur dhe sistemuar nga At Shtjefën Gjeçovi gjatë dhjetëvjeçarëve të udhëtimeve nëpër Dukagjin e Mirditë, botuar posthum në 1933. Kanuni rregullon të gjitha aspektet e jetës fisnore: nderin, hakmarrjen, pronën, martesën, mikpritjen dhe marrëdhëniet mes fiseve. Është njëri nga dokumentet etnografike dhe juridike më të rëndësishme të kulturës shqiptare dhe burim i pasur për kuptimin e shoqërisë tradicionale shqiptare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "editions": [
+    { "id": "postueme", "format": "pdf", "label": "Botimi postuem", "url": "postueme.pdf" }
+  ],
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botuar në 1933 — autori vdiq në 1917, vepra në domain publik.",
+    "sources": [
+      {
+        "name": "arkiva.me — PDF i skanuar",
+        "url": "http://pdf.arkiva.me/Libra/1933/1933-PDF-kanuni-i-leke-dukagjinit-at-shtjefen-gjecovi.pdf",
+        "note": "Skanim i botimit të parë, 1933"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Psallme murgu",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Meditim", "Fetare"],
+  "publicationYear": 1930,
+  "synopsis": "Vëllimi i tretë dhe i fundit i Asdrnit, botuar në Bukuresht në 1930 — poezi me frymë kontemplative dhe shpirtërore, afër psallit fetar. Titulli — «Psalmet e murgut» — pasqyron qëndrimin e autorit ndaj jetës: poet i vetmuar në diasporë, që i këndon Zotit, atdheut të humbur dhe kohës që kalon. Kulminacion i pjekurisë artistike të Asdrnit.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1947 — vepra në domain publik."
+  }
+}

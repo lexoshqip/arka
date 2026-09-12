@@ -1,0 +1,19 @@
+{
+  "title": "Su gli Albanesi",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Histori", "Etnografi", "Albaniana"],
+  "publicationYear": 1847,
+  "originalLanguage": "it",
+  "language": "it",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "accessType": "full",
+  "channel": "main",
+  "synopsis": "Panoramë e historisë, gjuhës dhe kulturës shqiptare nga Vincenzo Dorsa, albanolog arbëresh nga Kalabria — botuar në 1847. Vepra kontribuoi në njohjen e identitetit arbëresh si komunitet me histori dhe kulturë të veçantë dhe mbetet burim i rëndësishëm për albanologjinë e shekullit XIX.",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1885 — vepra në domain publik."
+  }
+}

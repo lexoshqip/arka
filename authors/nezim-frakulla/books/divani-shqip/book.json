@@ -1,0 +1,42 @@
+{
+  "title": "Divani shqip",
+  "epochId": "shekulli-xviii",
+  "isFeatured": true,
+  "tags": [
+    "Poezi",
+    "Klasike"
+  ],
+  "publicationYear": 1735,
+  "synopsis": "«Divani shqip» i Nezim Frakullës është divani i parë i dokumentuar në gjuhën shqipe, hartuar në Berat midis viteve 1731 dhe 1736. Nga rreth 110 gazelet e kasidet e tij kanë mbijetuar vetëm kopje dorëshkrimore; teksti u transkriptua në alfabet latin nga Abdullah Ferhati dhe u botua pjesë-pjesë në revistën «Zani i Naltë» më 1938. Ky botim është një rindërtim i pjesshëm: përfshin vetëm tri poezi të plota të mbijetuara nga transkriptimi i Ferhatit. Pjesa dërrmuese e Divanit — rreth 107 poezi të tjera — mbetet ende në dorëshkrim, e padisponueshme lirisht në format dixhital. Botimi kritik referues është *Divani shqip*, ed. Genciana Abazi-Egro (Toena, 2009), i cili pajton shtatë kopje dorëshkrimore. Nëse dispononi kopje të tjera të transkriptuara ose mund të kontribuoni në rindërtimin e plotë të Divanit, na kontaktoni.",
+  "translator": null,
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "source-declared",
+    "sources": [
+      {
+        "name": "Revista «Zani i Naltë», viti XIII, nr. 5, maj 1938",
+        "url": "https://www.trandofilishta.com/poezi/poezi-shqiptare/nezim-frakulla/nezim-frakulla-ilahi-ja-nur",
+        "note": "Transkriptimi i Abdullah Ferhatit i Divanit shqip; botimi i vitit 1938 është në domain publik"
+      },
+      {
+        "name": "Trandofilishta — Nezim Frakulla, Poezi",
+        "url": "https://www.trandofilishta.com/poezi/poezi-shqiptare/nezim-frakulla",
+        "note": "Burimi dixhital i teksteve të transkriptuara, me fjalorthet shpjeguese"
+      },
+      {
+        "name": "Nezim Berati — Divani shqip, edicioni kritik i G. Abazi-Egros (Toena, 2009)",
+        "url": "https://openlibrary.org/books/OL24421208M/Divani_shqip",
+        "note": "Botimi kritik referues për pajtimin e varianteve tekstuale (nuk është burimi i tekstit tonë)"
+      },
+      {
+        "name": "Biblioteka Kombëtare e Shqipërisë — Mecmua-c eş'âr ve divan",
+        "url": "http://www.bksh.al",
+        "note": "Dorëshkrimet origjinale të divanit, të ruajtura në koleksionin e dorëshkrimeve BKSH"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Meshari",
+  "epochId": "e-vjeter",
+  "isFeatured": true,
+  "tags": ["Fetare", "Klasike"],
+  "publicationYear": 1555,
+  "synopsis": "«Meshari» i Gjon Buzukut (1555) është libri i parë i shkruar e i shtypur në gjuhën shqipe — një përkthim e përshtatje katolike i liturgjisë, me lutje, tekste të meshave dhe pjesë nga Dhiata e Vjetër e e Re. Shkruar në gegërishten veriore, ai dëshmon pjekurinë e hershme të shqipes së shkruar dhe mbetet guri i themelit i letërsisë shqipe. Nga tirazhi i vitit 1555 njihet sot vetëm një kopje origjinale, e zbuluar në 1909 në Bibliotekën e Vatikanit.",
+  "translator": null,
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "sources": [
+      {
+        "name": "Biblioteka Kombëtare e Shqipërisë",
+        "url": "https://www.bksh.al",
+        "note": "Institucioni digjitalizues i ekzemplarit origjinal (1555)"
+      },
+      {
+        "name": "Plisi.org — faksimile i «Mesharit»",
+        "url": "https://plisi.org/libra/",
+        "note": "Skani i botimit të parë shqip; teksti është në domain publik"
+      }
+    ]
+  }
+}

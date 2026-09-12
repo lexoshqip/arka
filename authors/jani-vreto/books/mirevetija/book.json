@@ -1,0 +1,17 @@
+{
+  "title": "Mirëvetija",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Filozofi", "Etikë", "Arsim"],
+  "publicationYear": 1886,
+  "synopsis": "Traktat filozofik dhe etik i Jani Vretos, botuar në 1886 — adaptim i veprës italiane të Francesco Soave-s mbi virtytet dhe sjelljen morale. Një nga tekstet e para të filozofisë morale në gjuhën shqipe, «Mirëvetija» pasqyron frymën iluministe të Rilindjes dhe dëshirën për të edukuar lexuesin shqiptar në vlera universale.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Hristomathi",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Antologji", "Arsim", "Letërsi"],
+  "publicationYear": 1902,
+  "synopsis": "Antologji letrare dhe edukative e hartuar nga Gjergj Qiriazi, botuar në Sofje në dy vëllime (1902, 1907). Përfshin shkrime dhe përkthime të vëllait Gjerasim dhe motrës Sevasti, si dhe materiale të tjera për arsimimin e lexuesve shqiptarë. «Hristomathi» — termi grek për «mësime të zgjedhura» — ishte ndër tekstet e para antologjike të letërsisë shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1912 — vepra në domain publik."
+  }
+}

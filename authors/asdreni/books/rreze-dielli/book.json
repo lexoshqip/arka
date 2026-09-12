@@ -1,0 +1,18 @@
+{
+  "title": "Rreze Dielli",
+  "epochId": "pavaresia",
+  "isFeatured": true,
+  "tags": ["Poezi", "Patriotike", "Lirikë"],
+  "publicationYear": 1904,
+  "synopsis": "Vëllimi i parë poetik i Asdrnit, botuar në Bukuresht më 1904. Përmban lirika dashurie, poezi patriotike dhe meditime personale me frymë romantike. «Rreze Dielli» e vendosi Asdrenin si zërin poetik kryesor të diasporës shqiptare të fillimit të shekullit XX dhe ndër lirikëve të rëndësishëm të brezit të Pavarësisë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1947 — vepra në domain publik."
+  }
+}

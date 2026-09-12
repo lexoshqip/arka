@@ -1,0 +1,17 @@
+{
+  "title": "Vjersha e tekste arbëreshe",
+  "epochId": "shekulli-xviii",
+  "isFeatured": false,
+  "tags": ["Poezi", "Folklor", "Arbëresh", "Fetare"],
+  "publicationYear": 1769,
+  "synopsis": "Veprat e Nikollë Filjës — vjersha, fragmente biblike dhe tekste liturgjike të shkruara dhe mbledhura në arbërisht, destinuar për besimtarët dhe fëmijët arbëreshë të Chieutit dhe Mezzojusos. Filja është ndër ruajtësit e hershëm të traditës letrare arbëreshe, vepra e të cilit u transmetua fillimisht nëpërmjet dorëshkrimeve dhe u bë bazë e mbledhjes së mëvonshme nga Marchianò.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1769 — vepra në domain publik."
+  }
+}

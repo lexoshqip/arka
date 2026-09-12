@@ -1,0 +1,26 @@
+{
+  "title": "Historia e Skënderbeut",
+  "epochId": "e-vjeter",
+  "isFeatured": true,
+  "tags": ["Histori", "Biografi", "Humanizëm", "Skënderbeu"],
+  "publicationYear": 1508,
+  "originalTitle": "Historia de vita et gestis Scanderbegi Epirotarum principis",
+  "synopsis": "⚠ Ky dokument është botimi origjinal latinisht i vitit 1508 — jo përkthimi shqip. Biografia madhore e Gjergj Kastriot Skënderbeut, kryevepra e Marin Barletit dhe e humanizmit shqiptar. Botuar në Romë rreth 1508–1510 dhe përkthyer në mbi 40 gjuhë, vepra e bëri Skënderbeun figurë europiane. Përkthimi shqip u bë në 1964 nga Instituti i Historisë dhe Gjuhësisë, Tiranë.",
+  "language": "la",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVI, qartazi në domain publik. Përkthimi shqip i vitit 1964 mund të ketë të drejta të veçanta.",
+    "sources": [
+      {
+        "name": "Internet Archive — historia-e-jetes-dhe-e-veprave-te-skenderbeut",
+        "url": "https://archive.org/details/historia-e-jetes-dhe-e-veprave-te-skenderbeut",
+        "note": "PDF 35MB i disponueshëm — kërkon llogari Archive.org"
+      }
+    ]
+  }
+}

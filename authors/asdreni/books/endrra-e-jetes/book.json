@@ -1,0 +1,18 @@
+{
+  "title": "Ëndrra e lotë",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Poezi", "Lirikë", "Romantike"],
+  "publicationYear": 1912,
+  "synopsis": "Vëllimi i dytë poetik i Asdrnit, botuar në 1912 — lirika me frymë më të thelluar filozofike dhe melankolike, vëllim i dedikuar antropolojistes britanike Edith Durham, ku lirika shqyrton idealin e lirisë, nostalgjinë dhe mallin për atdheun, kohës dhe nostalgjisë. Asdreni e pasuron këtu repertorin e tij poetik me meditim ekzistencial, duke ecur përtej patriotizmit të vëllimit të parë drejt introspektivës personale.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1947 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Vjershë shkresëtoreja",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Patriotike", "Fetare"],
+  "publicationYear": 1899,
+  "synopsis": "Vëllim poezish të Papa Kristo Negovanit, botuar në Sofje në 1899 — vjersha patriotike dhe fetare me frymë edukative, drejtuar shqiptarëve të krishterë ortodoksë. Vepra pasqyron zërin lirik të Negovanit si poet i fesë dhe atdheut, dy boshtet e identitetit shqiptar të jugut.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1905 — vepra në domain publik."
+  }
+}

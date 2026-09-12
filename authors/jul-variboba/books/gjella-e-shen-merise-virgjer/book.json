@@ -1,0 +1,19 @@
+{
+  "title": "Gjella e Shën Mërisë Virgjër",
+  "epochId": "shekulli-xviii",
+  "isFeatured": false,
+  "tags": ["Poezi", "Poemë", "Fetare", "Arbëresh"],
+  "publicationYear": 1762,
+  "originalTitle": "Ghiella e Shën Mëriis Virghiër",
+  "synopsis": "Poema lirike kryevepër e Jul Varibobës dhe i vetmi libër arbëresh i botuar në shekullin XVIII — 4717 vargje rreth jetës së Virgjëreshës Mari, nga lindja deri në Nanëzimin. Botuar në Romë në 1762 në dialektin e San Giorgio Albanese (Kalabri), poema shquhet nga ndjesia e gjallë lirike dhe gjuha e pasur arbëreshe, duke e bërë burimin kryesor të arbërishtes kalabreziane të shekullit XVIII.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVIII, qartazi në domain publik."
+  }
+}

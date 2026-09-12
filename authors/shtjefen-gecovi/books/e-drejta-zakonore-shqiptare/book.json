@@ -1,0 +1,16 @@
+{
+  "title": "E drejta zakonore shqiptare",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["E Drejtë Zakonore", "Etnografi", "Kanun"],
+  "synopsis": "Studim i së drejtës zakonore shqiptare nga Shtjefën Gjeçovi — vepër shkencore që dokumenton normat, rregullat dhe institucionet e drejtësisë tradicionale shqiptare, plotësuese e punës së tij kryesore mbi Kanunin e Lekë Dukagjinit. Gjeçovi mbetet figuri themelore e studimit të drejtësisë zakonore në Shqipëri.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1929 — vepra në domain publik."
+  }
+}

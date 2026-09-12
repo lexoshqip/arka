@@ -1,0 +1,21 @@
+{
+  "title": "Rubairat",
+  "epochId": "pavaresia",
+  "collectionIds": ["klasike-perkthyer"],
+  "isFeatured": false,
+  "tags": ["Poezi", "Përkthim", "Filozofi", "Orientale"],
+  "publicationYear": 1926,
+  "originalTitle": "Rubaiyat of Omar Khayyam",
+  "originalLanguage": "fa",
+  "translator": "Fan Noli",
+  "synopsis": "Katrorinet e famshme të poetit persian Omar Khayyam — meditim mbi jetën, dashurinë, verën dhe kohën — në përkthimin shqip të Fan Nolit, botuar në Boston në 1926. Noli e adaptoi këtë klasik persian duke kaluar nëpër versionin anglez të Edward FitzGerald-it, duke prodhuar një version shqip me muzikalitet dhe profunditet të rrallë. Ndër përkthimet e tij poetike më të arrira.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botuar 1926 në Boston — pre-1928, domain publik sipas ligjit amerikan."
+  }
+}

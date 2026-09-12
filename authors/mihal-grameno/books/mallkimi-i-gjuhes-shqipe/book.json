@@ -1,0 +1,18 @@
+{
+  "title": "Mallkimi i gjuhës shqipe",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Dramë", "Komedi", "Satirë", "Patriotike"],
+  "publicationYear": 1905,
+  "synopsis": "Komedi dramatike e Mihal Gramenos — satirë ndaj atyre që mohojnë dhe turpërohen nga gjuha shqipe. Me tre pamje, vepra paraqet konfliktin mes dashurisë për gjuhën amtare dhe presionit të asimilimit kulturor, duke thirrur shqiptarët të krenojnë identitetin e tyre gjuhësor.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1931 — vepra në domain publik."
+  }
+}

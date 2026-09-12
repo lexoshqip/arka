@@ -1,0 +1,29 @@
+{
+  "title": "Lahuta e Malcís",
+  "epochId": "pavaresia",
+  "isFeatured": true,
+  "tags": [
+    "Poezi",
+    "Klasike"
+  ],
+  "publicationYear": 1937,
+  "altTitles": [
+    "Lahuta e Malçis"
+  ],
+  "synopsis": "Epopeja kombëtare e shqiptarëve, në 30 këngë të shkruara në gegërishten e malësisë, me botim të plotë në Shkodër më 1937. Duke u mbështetur te cikli i këngëve të krahashit dhe te «Lahuta e Vukit» serbe, Fishta ndërton një vepër simmetrike: betejat e malësorëve të Malcisë kundra pushtuesve sllavë (1858–1911), heronjtë Gjec Kryqyqi, Ujkë Hoti e Marash Uci, dhe përfundon me Kryengritjen e Përgjithshme Shqiptare të vitit 1911. Konsiderohet kryevepra e letërsisë shqipe epiko-lirike dhe e vetmja epope moderne e gjuhës sonë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "sources": [
+      {
+        "name": "Wikipedia — Gjergj Fishta",
+        "url": "https://sq.wikipedia.org/wiki/Gjergj_Fishta",
+        "note": "Autori vdiq më 1940 — vepra është në domain publik; teksti i plotë pret digjitizim"
+      }
+    ]
+  }
+}

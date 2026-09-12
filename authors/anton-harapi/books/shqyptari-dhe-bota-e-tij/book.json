@@ -1,0 +1,16 @@
+{
+  "title": "Shqyptari dhe bota e tij",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Ese", "Filozofi", "Identitet Kombëtar"],
+  "synopsis": "Ese filozofike e Anton Harapit mbi identitetin shqiptar dhe marrëdhënien e shqiptarit me botën moderne. Harapi analizon karakterin kombëtar, vlerat kulturore dhe sfidat e shoqërisë shqiptare mes traditës dhe modernitetit — një nga kontributet e tij kryesore në publicistikën dhe filozofinë shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1946 — vepra në domain publik."
+  }
+}

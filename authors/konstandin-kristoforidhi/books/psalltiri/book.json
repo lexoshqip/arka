@@ -1,0 +1,20 @@
+{
+  "title": "Psalltiri",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Përkthim", "Fetare", "Dhiata e Vjetër", "Gjuhësi"],
+  "publicationYear": 1868,
+  "synopsis": "Psalltiri (Libri i Psalmeve) i përkthyer nga Konstandin Kristoforidhi në gjuhën shqipe toskërishte — kthim nga hebraishtja e vjetër. Botuar nën kujdesin e Shoqërisë Biblike Britanike, është njëri nga tekstet e para biblike të përkthyera drejtpërdrejt nga gjuha origjinale në shqip, me vlerë të madhe gjuhësore dhe historike.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "variantLabels": {
+    "gegerisht": "Gegërisht"
+  },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1895 — vepra në domain publik."
+  }
+}

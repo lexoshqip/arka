@@ -1,0 +1,17 @@
+{
+  "title": "Histori e Skënderbeut",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi epike", "Histori", "Skënderbeu"],
+  "publicationYear": 1847,
+  "synopsis": "Poema epike e Jani Vretos kushtuar heroit kombëtar Gjergj Kastrioti-Skënderbeut — vepra më e njohur e tij. Shkruar në frymën patriotike të Rilindjes Kombëtare, rrëfen jetën dhe luftërat e Skënderbeut kundër Perandorisë Osmane, duke e ndërtuar figurën e heroit si simbol të rezistencës dhe identitetit kombëtar shqiptar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

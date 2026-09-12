@@ -1,0 +1,17 @@
+{
+  "title": "Istori e Shqipërisë",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Histori", "Patriotike"],
+  "publicationYear": 1889,
+  "synopsis": "Vepër historike e Naim Frashërit botuar në Bukuresht në 1889, që shtjellon historinë e popullit shqiptar nga lashtësia deri në kohën e tij. Shkruar si mjet edukimi kombëtar, u bë ndër tekstet kryesore të ndërgjegjësimit historik të Rilindjes.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "E këndimit çunavet. Këndonjëtoreja: copë e dytë",
+  "epochId": "rilindja",
+  "collectionIds": ["femije"],
+  "isFeatured": false,
+  "tags": ["Lexim", "Arsim", "Fëmijë"],
+  "publicationYear": 1886,
+  "synopsis": "Pjesa e dytë e librit të leximit për djemtë e shkollave shqipe, botuar në Bukuresht në 1886. Vazhdon tekstin e copës së parë me materiale më të avancuara leximi. 59 faqe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

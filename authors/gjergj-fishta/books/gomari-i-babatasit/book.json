@@ -1,0 +1,24 @@
+{
+  "title": "Gomari i Babatasit",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Satirë", "Dramë", "Komike"],
+  "publicationYear": 1923,
+  "synopsis": "Poem satirike dramatike në dy pjesë e Gjergj Fishtës, botuar në Shkodër në 1923. Vepra më e gjatë satirike shqipe — qesëndis me ashpërsi jetën politike dhe shoqërore të Shqipërisë pas Pavarësisë, mentalitetin bej-ligjor dhe demagogjinë e klasës politike. Gomari si metaforë e shoqërisë bëhet ikonë e satirës shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1940 — vepra në domain publik.",
+    "sources": [
+      {
+        "name": "Fletoret — Gomari i Babatasit",
+        "url": "https://fletoret.com/fishta/gomari-i-babatasit/",
+        "note": "Tekst i plotë i disponueshëm në fletoret.com"
+      }
+    ]
+  }
+}

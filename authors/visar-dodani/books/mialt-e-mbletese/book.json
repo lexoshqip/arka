@@ -1,0 +1,18 @@
+{
+  "title": "Mjalt' e mbletësë",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Folklor", "Antologji", "Poezi", "Tregime"],
+  "publicationYear": 1898,
+  "synopsis": "Koleksion folklorik shqiptar i Visar Dodanit, botuar në Bukuresht në 1898 — 247 faqe me vjersha, thënie, tregime, njëra-tiatra dhe portrete shqiptarësh me jetëshkrime. Ndër veprat e para antologjike të letërsisë shqipe, hartuara nga diaspora e Bukureshtit gjatë periudhës së Rilindjes.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1939 — vepra në domain publik."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Vargjet e lira",
+  "epochId": "pavaresia",
+  "isFeatured": true,
+  "tags": [
+    "Poezi",
+    "Klasike"
+  ],
+  "publicationYear": 1936,
+  "synopsis": "Këto janë poezitë e Migjenit, në themelin e të cilave qëndron aspirata për një botë të re, ku njerëzit e thjeshtë e të varfër të jetojnë të lirë, të lumtur, me dinjitet njerëzor dhe pa frikë për të nesërmen. Botuar në 1936.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "sources": [
+      {
+        "name": "Wikipedia — Migjeni",
+        "url": "https://sq.wikipedia.org/wiki/Migjeni",
+        "note": "Autori vdiq më 1938 — vepra në domain publik"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Mallkimi i shkronjave shqipe dhe çpërfolja e shqipëtarit",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Publicistikë", "Gjuhë shqipe", "Patriotike"],
+  "publicationYear": 1911,
+  "synopsis": "Pamflet publicistik i Petro Nini Luarasit, botuar në Manastir në 1911 — mbrojtje pasionante e të drejtës së shqiptarëve për gjuhën, arsimin dhe kulturën e tyre. Ndër shkrimet e fundit të autorit para vdekjes, pasqyron me forcë dramatike luftën e mësuesit patriot kundër persekutimit osman të shkollës shqipe. Bashkë me «Çpërfolja e shqiptarit» formon testamentin letrar të Luarasit.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1911 — vepra në domain publik.",
+    "sources": [
+      {
+        "name": "Albanian Orthodox — albanianorthodox.com",
+        "url": "https://albanianorthodox.com/kisha-shqiptare/petro-nini-luarasi/",
+        "note": "PDF i siguruar nga albanianorthodox.com"
+      }
+    ]
+  }
+}

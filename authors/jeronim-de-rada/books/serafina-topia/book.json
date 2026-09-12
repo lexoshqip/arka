@@ -1,0 +1,17 @@
+{
+  "title": "Serafina Topia",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi", "Epikë", "Arbërisht"],
+  "publicationYear": 1843,
+  "synopsis": "Poemë historiko-lirike e De Radës, e frymëzuar nga historia e princeshës arbëreshe Serafina Topia. Vazhdim i traditës epike të «Këngëve të Milosaos», vepra kombinon romantizmin me kujtesën historike arbëreshe dhe shprehet me gjuhë poetike të lartë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1903 — vepra në domain publik."
+  }
+}

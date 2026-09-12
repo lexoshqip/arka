@@ -1,0 +1,17 @@
+{
+  "title": "I biri i Begut",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Komedi", "Shoqëri"],
+  "publicationYear": 1915,
+  "synopsis": "Komedi e Milo Duçit — vepër satirike që trajton kontrastat shoqërore dhe klasore, duke portretizuar personazhe nga shtresat e privilegjuara dhe ato të varfra të shoqërisë shqiptare.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1933 — vepra në domain publik."
+  }
+}

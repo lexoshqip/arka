@@ -1,0 +1,18 @@
+{
+  "title": "Gramatika shqyp",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Gjuhësi", "Gramatikë", "Edukim"],
+  "publicationYear": 1909,
+  "synopsis": "Gramatikë e gjuhës shqipe e At Anton Xanonit, botuar në Shkodër në 1909 — ndihmesë e rëndësishme e shkollës letrare jezuite në standardizimin e shqipes. Vepra kombinon qasjen gjuhësore shkencore me stilin e qartë të destinuar për arsimin kombëtar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1915 — vepra në domain publik."
+  }
+}

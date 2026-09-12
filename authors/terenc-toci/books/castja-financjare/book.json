@@ -1,0 +1,17 @@
+{
+  "title": "Çastja financjare n'Shqypnii",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Politikë", "Ekonomi", "Publicistikë"],
+  "synopsis": "Pamflet dygjuhësh (shqip-italisht) i Terenc Toçit mbi çështjen financiare në Shqipëri — 24 faqe analizë dhe kritikë e gjendjes ekonomike të shtetit shqiptar të ri.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1945 — vepra në domain publik."
+  }
+}

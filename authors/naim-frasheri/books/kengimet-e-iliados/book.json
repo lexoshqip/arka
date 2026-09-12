@@ -1,0 +1,19 @@
+{
+  "title": "Këngimet e Iliados",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Përkthim", "Epikë", "Greqi Antike", "Homeri"],
+  "originalTitle": "Iliad",
+  "originalLanguage": "grc",
+  "publicationYear": 1896,
+  "synopsis": "Përkthimi i këngës së parë të Iliadës homere nga Naim Frashëri, botuar në Bukuresht në 1896 — ndër veprat e para të letërsisë klasike greke të përkthyera në shqip. Naimi shoqëron tekstin me hyrje dhe postskript, duke hapur dritare të qytetërimit antik për lexuesin shqiptar dhe duke nënvizuar lidhjet kulturore midis botës helene dhe identitetit shqiptar.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1900 — vepra në domain publik."
+  }
+}

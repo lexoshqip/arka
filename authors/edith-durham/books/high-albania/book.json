@@ -1,0 +1,21 @@
+{
+  "title": "High Albania",
+  "collectionIds": ["albaniana"],
+  "isFeatured": true,
+  "tags": ["Udhëpërshkrim", "Etnografi", "Albaniana"],
+  "publicationYear": 1909,
+  "originalTitle": "High Albania",
+  "originalLanguage": "en",
+  "language": "en",
+  "synopsis": "Kryevepra e Edith Durhame — dëshmi e gjallë dhe autentike e jetës malësore shqiptare të fillimit të shekullit XX. Gjatë udhëtimeve të saj të gjata në veriun e Shqipërisë, Durham dokumentoi me mprehtësi dhe simpati Kanunin, mikpritjen, gjak-marrjen, veshjet dhe besimet e malësorëve. Libri mbetet burimi kryesor etnografik anglisht mbi Shqipërinë e vjetër.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "epub": "book.epub" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1944 — vepra në domain publik.",
+    "sources": [{ "name": "Internet Archive", "url": "https://archive.org/details/afg4972.0001.001.umich.edu" }]
+  }
+}

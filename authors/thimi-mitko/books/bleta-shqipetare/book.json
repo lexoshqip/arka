@@ -1,0 +1,18 @@
+{
+  "title": "Bleta Shqipëtare",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Folklor", "Këngë popullore", "Fjalë të urta"],
+  "publicationYear": 1878,
+  "synopsis": "Koleksioni i parë i madh i folklorit shqiptar, botuar në Aleksandri të Egjiptit në 1878. Titulli i plotë në greqisht: «Albanikī Melissa» — vepër dygjuhëshe shqip-greqisht. Thimi Mitko mblodhi 505 këngë popullore, 39 tregime dhe fjalë të urta nga e gjithë Shqipëria, duke krijuar arkivin e parë sistematik të kulturës gojore shqipe. Vëllimi përfshin edhe një pjesë nga eseja e Dora d'Istrias «Kombësia shqiptare» — duke e lidhur kolecionin folklorik drejtpërdrejt me debatin e madh të Rilindjes për identitetin kombëtar.",
+  "language": "sq",
+  "languageNote": "Dygjuhësh shqip-greqisht (Alvano-Ellīnikon)",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1890 — vepra në domain publik."
+  }
+}

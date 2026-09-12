@@ -1,0 +1,20 @@
+{
+  "title": "The Burden of the Balkans",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Udhëpërshkrim", "Politike", "Albaniana"],
+  "publicationYear": 1905,
+  "originalLanguage": "en",
+  "language": "en",
+  "synopsis": "Libri i parë i Edith Durhame mbi Ballkanin, i shkruar pas udhëtimeve të saj të hershme nëpër rajon. Analizon tensionet politike dhe etnike të Ballkanit të fillimit të shekullit XX, duke mbrojtur me zë të fortë çështjen shqiptare kundër pretendimeve sllave dhe greke.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "epub": "book.epub" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1944 — vepra në domain publik.",
+    "sources": [{ "name": "Internet Archive", "url": "https://archive.org/details/ans3900.0001.001.umich.edu" }]
+  }
+}

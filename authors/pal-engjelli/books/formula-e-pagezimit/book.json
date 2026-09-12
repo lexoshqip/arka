@@ -1,0 +1,20 @@
+{
+  "title": "Formula e Pagëzimit",
+  "epochId": "e-vjeter",
+  "isFeatured": false,
+  "tags": ["Gjuhësi", "Dokument Historik"],
+  "publicationYear": 1462,
+  "synopsis": "Fjalia e parë e njohur e shkruar në gjuhën shqipe, e shënuar nga Pal Engjëlli, Kryeipeshkv i Durrësit, në një letër drejtuar ipeshkvit të Lezhës më 1462: «Unte paghesont premenit Atit et Birit et Spertit Senit». Tekst i shkurtër por me vlerë themelore absolute për historinë e gjuhës shqipe.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": {
+    "pdf": "book.pdf"
+  },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Dokument i shekullit XV, qartazi në domain publik."
+  }
+}

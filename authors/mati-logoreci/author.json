@@ -1,0 +1,14 @@
+{
+  "name": "Mati Logoreci",
+  "dates": "1867–1941",
+  "born": 1867,
+  "died": 1941,
+  "bornPlace": "Shkodër",
+  "diedPlace": "Tiranë",
+  "epochId": "rilindja",
+  "epochIds": ["pavaresia"],
+  "kind": "albanian",
+  "isFeatured": false,
+  "bio": "Pedagog, gjuhëtar dhe publicist shqiptar nga Shkodra — ndër figurat kryesore të arsimit kombëtar shqiptar dhe kultivues i dialektit verior. Hapi shkollën e parë shqipe në Prizren (1 maj 1889) dhe përfaqësoi shoqërinë Agimi në Kongresin e Manastirit (1908). U bë kustodi i parë i Bibliotekës Kombëtare të Shqipërisë (1920) dhe shërbeu si Sekretar i Përgjithshëm i Ministrisë së Arsimit (1922–1923). Botoi tekste historike dhe gazeta, duke kontribuar si purist gjuhësor i gegërishtes.",
+  "wikipedia": "https://mati.logoreci.com/bio-en.html"
+}

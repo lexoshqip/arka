@@ -1,0 +1,18 @@
+{
+  "title": "Ndolljet e Shqypnis",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Tregime", "Folklor", "Patriotike"],
+  "publicationYear": 1898,
+  "synopsis": "Tregime dhe ndodhi nga Shqipëria, shkruar dhe botuar në Aleksandri të Egjiptit nga Stefë Curani — vepër patriotike e diasporës shqiptare të Rilindjes, e shkruar 'prej njij Gege qi don vendin e vet'. Botimi i tretë, me 5 ilustrime në tekst, dëshmon popullaritetin e veprës në mesin e shqiptarëve të mërgimit.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Botimi i parë 1898 — vepra në domain publik."
+  }
+}

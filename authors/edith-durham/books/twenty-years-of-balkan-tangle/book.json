@@ -1,0 +1,19 @@
+{
+  "title": "Twenty Years of Balkan Tangle",
+  "collectionIds": ["albaniana"],
+  "isFeatured": false,
+  "tags": ["Udhëpërshkrim", "Politike", "Ballkan", "Albaniana"],
+  "publicationYear": 1920,
+  "language": "en",
+  "synopsis": "Memorje e dy dekadave të Edith Durhame në Ballkan — nga vitet e hershme në Serbi e Mal të Zi deri tek Luftërat Ballkanike dhe Lufta e Parë Botërore. Durham rrëfen me zërin e saj karakteristik të guximshëm ngjarjet që formësuan fatin e shqiptarëve dhe popujve të tjerë të rajonit, duke ofruar një panoramë të pakrahasueshme të periudhës më të trazuar të historisë ballkanike.",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "epub": "book.epub" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1944 — vepra në domain publik.",
+    "sources": [{ "name": "Project Gutenberg — ebook #19669", "url": "https://www.gutenberg.org/ebooks/19669" }]
+  }
+}

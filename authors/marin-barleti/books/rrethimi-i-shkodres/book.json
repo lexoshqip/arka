@@ -1,0 +1,27 @@
+{
+  "title": "Rrethimi i Shkodrës",
+  "epochId": "e-vjeter",
+  "isFeatured": false,
+  "tags": ["Histori", "Kronikë", "Humanizëm", "Shkodra"],
+  "publicationYear": 1504,
+  "originalTitle": "De obsidione Scodrensi",
+  "synopsis": "Kronika e rrethimit të Shkodrës nga turqit otomanë në vitet 1474 dhe 1478 — vepra e parë e Marin Barletit, e shkruar si dëshmitar okular i ngjarjeve. Botuar në latinisht në Venedik më 1504, rrëfen heroizmin e mbrojtjes shkodrane me hollësi dhe pasion. Përkthimi në shqip u bë nga Henrik Lacaj në vitin 1962, në 50-vjetorin e Pavarësisë.",
+  "language": "sq",
+  "originalLanguage": "la",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Vepër e shekullit XVI, qartazi në domain publik. Përkthimi shqip i vitit 1962 mund të ketë të drejta të veçanta.",
+    "sources": [
+      {
+        "name": "Scribd — Rrethimi i Shkodres",
+        "url": "https://www.scribd.com/doc/167954754/Marin-Barleti-Rrethimi-i-Shkodres-The-Seige-of-Shkodra",
+        "note": "Version i skanuar i disponueshëm"
+      }
+    ]
+  }
+}

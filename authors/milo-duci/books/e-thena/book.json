@@ -1,0 +1,17 @@
+{
+  "title": "E Thëna",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Komedi", "Teatër"],
+  "publicationYear": 1910,
+  "synopsis": "Komedi e Milo Duçit — vepër me frymë satirike që pasqyron karaktere dhe situata komike nga jeta shqiptare, duke vënë në dukje të metat shoqërore me mjete humoristike. Ndër kontributet e hershme shqiptare në zhanrin e komedisë.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1933 — vepra në domain publik."
+  }
+}

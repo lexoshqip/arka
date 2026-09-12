@@ -1,0 +1,17 @@
+{
+  "title": "Të dheu i huaj",
+  "epochId": "rilindja",
+  "isFeatured": false,
+  "tags": ["Poezi epike", "Arbërisht", "Mërgim", "Histori"],
+  "publicationYear": 1900,
+  "synopsis": "Poema epike e Zef Skiroit botuar në 1900 — konsideruar vepra e tij kryesore dhe një lloj himni kombëtar për shqiptarët e Italisë. Rrëfen historinë e refugjatëve shqiptarë të shekullit XV dhe ardhjen e tyre në Sicili pas rënies së Skënderbeut, duke i dhënë komunitetit arbëresh një epikë të vetën. Eqrem Çabej e cilësoi si «kënkë kombëtare të shqiptarëve të Italisë».",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1927 — vepra në domain publik."
+  }
+}

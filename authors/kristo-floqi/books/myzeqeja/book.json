@@ -1,0 +1,16 @@
+{
+  "title": "Myzeqeja",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Dramë", "Realiste"],
+  "synopsis": "Drama realiste e Kristo Floqit mbi jetën dhe zakonet e Myzeqesë — rajoni bujqësor i Shqipërisë qendrore. Me humor dhe kritikë sociale, Floqi pasqyron kontradiktat e shoqërisë shqiptare të fillimit të shekullit XX midis traditës dhe modernitetit.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "metadata-only",
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1951 — vepra në domain publik."
+  }
+}

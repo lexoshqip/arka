@@ -1,0 +1,18 @@
+{
+  "title": "Burgu",
+  "epochId": "pavaresia",
+  "isFeatured": false,
+  "tags": ["Roman", "Autobiografi", "Politikë"],
+  "publicationYear": 1935,
+  "synopsis": "Roman autobiografik i Haki Stërmillit bazuar në përvojën e tij si i burgosur politik — dëshmi e drejtpërdrejtë e represionit ndaj intelektualëve shqiptarë në vitet 1930. Stërmilli përshkruan jetën e burgut me realizëm të ashpër, duke e kthyer vuajtjen personale në dokument letrar dhe akuzë sociale.",
+  "language": "sq",
+  "accessType": "full",
+  "channel": "main",
+  "availability": "full-text",
+  "formats": { "pdf": "book.pdf" },
+  "rights": {
+    "license": "public-domain",
+    "verification": "juridical",
+    "notes": "Autori vdiq në 1953 — vepra në domain publik (life+70 = 2023)."
+  }
+}
