@@ -21,14 +21,13 @@ jobs:
             secret_access_key = ${{ secrets.IA_SECRET_KEY }}
           disable_base64: true
 
-      - name: Sync Library Content to Internet Archive
+      - name: Sync Entire Workspace to Internet Archive
         run: |
-          # Ensure local folders exist to prevent missing directory errors
-          mkdir -p ./books ./metadata ./assets
-
-          # Sync books folder
-          rclone sync ./books ia:lexo-shqip-archive/books --progress
-          
-          # Sync metadata catalogs and assets
-          rclone sync ./metadata ia:lexo-shqip-archive/metadata --progress
-          rclone sync ./assets ia:lexo-shqip-archive/assets --progress
+          rclone sync . ia:lexo-shqip-archive/ --progress \
+            --exclude ".git/**" \
+            --exclude ".github/**" \
+            --exclude ".gitignore" \
+            --exclude ".gitattributes" \
+            --exclude "README.md" \
+            --exclude "TODO.md" \
+            --exclude "missing.md"
