@@ -23,9 +23,12 @@ jobs:
 
       - name: Sync Library Content to Internet Archive
         run: |
-          # Sync books folder (epubs, etc.)
+          # Ensure local folders exist to prevent missing directory errors
+          mkdir -p ./books ./metadata ./assets
+
+          # Sync books folder
           rclone sync ./books ia:lexo-shqip-archive/books --progress
           
-          # Sync metadata catalogs (JSON/YAML) and assets (covers/images)
+          # Sync metadata catalogs and assets
           rclone sync ./metadata ia:lexo-shqip-archive/metadata --progress
           rclone sync ./assets ia:lexo-shqip-archive/assets --progress
