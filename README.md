@@ -59,18 +59,25 @@ Library/
 | `source-declared` | Sipas burimit |
 | `pending` | Në shqyrtim — vepra nuk publikohet |
 
-## Deployment (Cloudflare R2)
+## Deployment (Backblaze B2)
+
+Çdo push në `main` sync automatikisht përmbajtjen në B2 bucket `lexoshqip-arka`.
+
+Para push, gjeneroni `catalog.json`:
 
 ```bash
-node generate-manifest.mjs
-# pastaj upload i gjithë folderit në R2 bucket: lexoshqip-library
+cd ../web
+node scripts/generate-catalog.mjs ../arka
 ```
+
+`catalog.json` është skedari që web app shkarkon gjatë build-it (1 request në vend të 300+).
 
 ## Lidhja me web-in
 
 ```bash
-cd ../Website
-npm run build:content   # lexon Library/ dhe gjeneron public/api/
+cd ../web
+npm run dev                # lexon catalog.json nga B2, shërben përmbajtjen përmes S3 proxy
+npm run generate:catalog   # gjeneron catalog.json për të gjitha libraritë
 ```
 
 ## Repo të lidhura
