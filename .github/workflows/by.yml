@@ -1,0 +1,33 @@
+name: Sync to Backblaze B2
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Rclone
+        uses: AnimMouse/setup-rclone@v1
+        with:
+          rclone_config: |
+            [b2]
+            type = b2
+            account = ${{ secrets.BB_ACCOUNT }}
+            key = ${{ secrets.BB_KEY }}
+          disable_base64: true
+
+      - name: Sync Workspace to Backblaze B2 Bucket
+        run: |
+          rclone sync . b2:lexoshqip-arka/ --progress \
+            --exclude ".git/**" \
+            --exclude ".github/**" \
+            --exclude ".gitignore" \
+            --exclude ".gitattributes" \
+            --exclude "README.md" \
+            --exclude "TODO.md" \
+            --exclude "missing.md"
