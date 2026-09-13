@@ -24,6 +24,9 @@ jobs:
       - name: Sync Entire Workspace to Internet Archive
         run: |
           rclone sync . ia:lexo-shqip-archive/ --progress \
+            --transfers 16 \
+            --checkers 8 \
+            --fast-list \
             --exclude ".git/**" \
             --exclude ".github/**" \
             --exclude ".gitignore" \
