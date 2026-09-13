@@ -2,7 +2,7 @@ name: Sync to Internet Archive
 
 on:
   push:
-    branches: [main]
+    # branches: [main]
 
 jobs:
   sync:
@@ -27,6 +27,7 @@ jobs:
             --transfers 16 \
             --checkers 8 \
             --fast-list \
+            --exclude "**/.DS_Store" \
             --exclude ".git/**" \
             --exclude ".github/**" \
             --exclude ".gitignore" \
