@@ -1,12 +1,48 @@
-name: Sync to Backblaze B2
+name: Sync to R2 and B2
 
 on:
   push:
     branches: [main]
 
 jobs:
-  sync:
+  sync-r2:
     runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Pull LFS objects
+        run: git lfs pull
+
+      - name: Set up Rclone
+        uses: AnimMouse/setup-rclone@v1
+        with:
+          rclone_config: |
+            [r2]
+            type = s3
+            provider = Cloudflare
+            access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
+            secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
+            endpoint = https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+            acl = private
+          disable_base64: true
+
+      - name: Sync to Cloudflare R2
+        run: |
+          rclone sync . r2:lexoshqip-arka/ --progress \
+            --exclude ".git/**" \
+            --exclude ".github/**" \
+            --exclude ".gitignore" \
+            --exclude ".gitattributes" \
+            --exclude "README.md" \
+            --exclude "TODO.md" \
+            --exclude "missing.md"
+
+  sync-b2:
+    runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -26,7 +62,7 @@ jobs:
             key = ${{ secrets.BB_KEY }}
           disable_base64: true
 
-      - name: Sync Workspace to Backblaze B2 Bucket
+      - name: Sync to Backblaze B2 (backup)
         run: |
           rclone sync . b2:lexoshqip-arka/ --progress \
             --exclude ".git/**" \
